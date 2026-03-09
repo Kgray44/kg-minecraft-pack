@@ -1621,14 +1621,6 @@ file = "config/voltaic-common.toml"
 hash = "22e06d9760a16bfd9762b36fc26a73c7523aed2a07188091aa2cab9ce00cdd68"
 
 [[files]]
-file = "config/wardentools-client.toml"
-hash = "bf5569ceaaabff251b3ca6e848d861264053e1584614e618b4df0c2dea341c90"
-
-[[files]]
-file = "config/wardentools-common.toml"
-hash = "edffaff27f3ab879370fbe1f1abb3e356102d772739dc37a63c55bae765fe40c"
-
-[[files]]
 file = "config/waystones-common.toml"
 hash = "68d5f87540f1a374ed9428994455ecd159d82da5c945e28e8a95fecac6020306"
 

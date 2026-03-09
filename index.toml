@@ -1305,10 +1305,6 @@ file = "config/forgeendertech/cached.dat"
 hash = "b9108f1deec661b74b4b7109f85d293a4340b570cafaa4f8ccd0355fca8630d0"
 
 [[files]]
-file = "config/ftbchunks-client.snbt"
-hash = "a80fbbb0de6b961eb108eddf344e3c228ea92fc54ef56e56dfadd3588022b528"
-
-[[files]]
 file = "config/ftbessentials.snbt"
 hash = "586b35a2681e6326a6ecde72509d6c1554f5b18b41defb768d6d1570b7c71f8e"
 
@@ -1359,46 +1355,6 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 [[files]]
 file = "config/iris.properties"
 hash = "09e6501f90b434989db6fa9d908ed449c68a0e116d9d8f8abf161202c7009aff"
-
-[[files]]
-file = "config/jei/blacklist.json"
-hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "1c87cdc58e2106f08ccc57cdbd28d2b4222aa3a5b8d08d14e7bb74ca1ca68cd5"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "21fbb9afb0f4aa91f896734f171b78354abad7f090cd9c0b79f716e791621de8"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "6edf11542e0eecea4c59cbabe5eaab1ef78a00621868d1253ace528eff7eb990"
-
-[[files]]
-file = "config/jei/world/server/Minecraft_Server_355f919/bookmarks.json"
-hash = "1b020692e96e598c2bb53a055ffdaf5432f7d063e09d22d89d956cc0953bec1c"
-
-[[files]]
-file = "config/jei/world/server/Minecraft_Server_355f919/lookupHistory.json"
-hash = "dd8b418b2be4ab262247bbfe0133bb15625181a05310d0c07f06297407957d9f"
 
 [[files]]
 file = "config/k_turrets-client.toml"
@@ -1555,10 +1511,6 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 [[files]]
 file = "config/sodium-options.json"
 hash = "edc5f5968f7c3805116e02e9735de47bb98b8a57a9b79a5371e5f9c318d5e1d2"
-
-[[files]]
-file = "config/spark/tmp/about.txt"
-hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
 file = "config/stellaris-config.json"

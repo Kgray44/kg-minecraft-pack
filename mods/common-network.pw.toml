@@ -1,0 +1,13 @@
+name = "Common Network"
+filename = "common-networking-neoforge-1.0.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "df39b3747e7571a6b4782fb8c618bb1fc5544662aba515ae4f67b56361448ec8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7087488
+project-id = 806044

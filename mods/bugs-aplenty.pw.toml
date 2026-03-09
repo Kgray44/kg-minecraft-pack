@@ -1,0 +1,13 @@
+name = "Bugs Aplenty"
+filename = "BugsAplenty(NEOFORGE)V3.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "102a96e6bc352eecf8376189568a625da0a9ccdbb0b33c5a747a40b629c7f5ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5831486
+project-id = 843202

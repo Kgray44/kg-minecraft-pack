@@ -1,0 +1,13 @@
+name = "Satako library"
+filename = "satako-neoforge-1.21.1-8.0.164.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "bbae6e7facacf18be733b4b071b3eb2077c98aade920d7cd46245a2e27aab77b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7448575
+project-id = 282037

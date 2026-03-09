@@ -1,0 +1,13 @@
+name = "Myths & Legends"
+filename = "mythsandlegends-0.0.8.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "8cace576dc58da61e94d17e7e21e546d3eb575eedaa35911c7453b9c16fe6a66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7374690
+project-id = 1133244

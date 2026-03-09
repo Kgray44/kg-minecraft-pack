@@ -1,0 +1,13 @@
+name = "WarStuff II - Decorations (Decorative Mod)"
+filename = "w2d-1.2.8.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "40246e8872a84a35c5040839ce0c6d79f37679131a14c6091eb73a2b2e277bf1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6606834
+project-id = 874233

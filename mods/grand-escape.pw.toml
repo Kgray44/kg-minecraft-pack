@@ -1,0 +1,13 @@
+name = "Grand Escape"
+filename = "grandescape-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "75cf58b246e198cd5a6f1ec4a49a84dbedefe9f178b15830f337eb777bc562c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6285379
+project-id = 1216926

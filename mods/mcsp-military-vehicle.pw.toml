@@ -1,0 +1,13 @@
+name = "[SBW] MCSP - ADDON"
+filename = "MCSP-1.21.1-V1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "017c821a9d2c7ad92012a2486a640df8a794f6524b0a0e0121f115efea7aebe4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7356169
+project-id = 1270418

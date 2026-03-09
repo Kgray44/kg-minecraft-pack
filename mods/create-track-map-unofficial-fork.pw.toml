@@ -1,0 +1,13 @@
+name = "Create: Track Map (UNOFFICIAL FORK)"
+filename = "create-track-map-2.0+mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "9c6894856b3b57373f76a08083d80d658e179b80b0f535459ea1e2f377c0694f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6939548
+project-id = 1318303

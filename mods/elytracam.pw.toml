@@ -1,0 +1,13 @@
+name = "ElytraCam"
+filename = "elytracam-0.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/elytracam-0.3-1.21.1.jar"
+hash-format = "sha256"
+hash = "9b87b07fdf44801f9f3edd9ce9b53822dfd04d9e307a979b68dee996966d7e22"
+
+[update]
+[update.curseforge]
+file-id = 6056585
+project-id = 1171560

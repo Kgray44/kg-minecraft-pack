@@ -1,0 +1,7 @@
+["redstone interactions"]
+	#If enabled, the Advanced Repair Station emits a redstone signal when filled up (the signal strength depends on the gauge level) (boolean, default = false)
+	redstone_signal = false
+
+["armor set bonus"]
+	#Enables bonus effects for the Slayer and Guardian armor sets (boolean, default = true)
+	armor_effects = true

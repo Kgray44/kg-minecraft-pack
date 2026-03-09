@@ -1,0 +1,13 @@
+name = "Create: More Girder"
+filename = "create-more-girder-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "ef49e2d7b021c8e14bd8b25655ff17857d13030d993f71993b65b97b3149ceb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7463518
+project-id = 1371561

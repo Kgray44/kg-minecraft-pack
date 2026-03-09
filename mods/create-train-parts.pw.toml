@@ -1,0 +1,13 @@
+name = "Create Train Parts"
+filename = "create_train_parts-0.3.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/create_train_parts-0.3.2-1.21.1.jar"
+hash-format = "sha256"
+hash = "ffaa59556600ddc18f186b779ede8deeea4793dd0c27f81c9bbadf69f3a5a0a9"
+
+[update]
+[update.curseforge]
+file-id = 6992906
+project-id = 1294279

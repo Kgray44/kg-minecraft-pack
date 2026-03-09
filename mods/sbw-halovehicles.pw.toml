@@ -1,0 +1,13 @@
+name = "[SBW]HaloVehicles"
+filename = "halovecs-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "1e6221b502b3e6b70c111de3533b7c878cf670214beb84d8dcbfbb290d671488"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7648881
+project-id = 1460326

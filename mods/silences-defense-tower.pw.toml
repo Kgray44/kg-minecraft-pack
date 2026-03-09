@@ -1,0 +1,13 @@
+name = "Silence's Turrets"
+filename = "silence_s_turrets-2.11.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "335537b691de2f34529ec91e3d088115c902cca8bb49f862e903ad66a0031394"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6651426
+project-id = 873924

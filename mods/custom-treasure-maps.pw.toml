@@ -1,0 +1,13 @@
+name = "Custom Treasure Maps"
+filename = "customtreasuremaps-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/customtreasuremaps-1.0.2.jar"
+hash-format = "sha256"
+hash = "e5f13aeb52486e66bcfc3d4dfc8a9ee04456dc49b3cf03aacf2773909ab86269"
+
+[update]
+[update.curseforge]
+file-id = 6437480
+project-id = 1245292

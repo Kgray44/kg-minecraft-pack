@@ -1,0 +1,13 @@
+name = "MineTraps"
+filename = "MineTraps-1.21-(v.3.0.2).jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "079f3c4081341ff9f71c88683370c922577482d21cdc136df3d48e76d4a313d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6561254
+project-id = 311546

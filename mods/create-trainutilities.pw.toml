@@ -1,0 +1,13 @@
+name = "Create Train Utilities"
+filename = "trainutilities-neoforge-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/trainutilities-neoforge-3.0.1.jar"
+hash-format = "sha256"
+hash = "3ae43db2aa918d39d0428463ee3fc7503c9adca273ad60b3dd9b66278196686d"
+
+[update]
+[update.curseforge]
+file-id = 7308280
+project-id = 1028420

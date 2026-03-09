@@ -1,0 +1,13 @@
+name = "Stellar View"
+filename = "Stellar View-1.21.1-0.5.2-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "b24148d1d9f786c8b79a1423545d1aa6d468bbf292660fb1d93c89609569a9d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7177905
+project-id = 865273

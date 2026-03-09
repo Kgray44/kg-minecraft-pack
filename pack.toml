@@ -1,0 +1,16 @@
+name = "KG Server Pack"
+author = "KG"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "88ff35929723ffd0e75c23416aca4f1d8f030f36c5bbb5c671133bc94fdc6324"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
+
+[options]
+acceptable-game-versions = ["1.21.1"]

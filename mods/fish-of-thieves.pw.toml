@@ -1,0 +1,13 @@
+name = "Fish of Thieves"
+filename = "fish_of_thieves-mc1.21.1-v21.1.1.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/fish_of_thieves-mc1.21.1-v21.1.1.2-neoforge.jar"
+hash-format = "sha256"
+hash = "2ab0c30cf0001ebde6da3f3b86bf3a96750fe97d6f86aee44d93041347e41c00"
+
+[update]
+[update.curseforge]
+file-id = 7449637
+project-id = 568372

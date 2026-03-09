@@ -1,0 +1,13 @@
+name = "Immersive Caves"
+filename = "immersivecaves-1.4.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/immersivecaves-1.4.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "b16f09d41cbbcb7c3736b524ad87b3185b1c36125f5b2c7297f6c1970931ec95"
+
+[update]
+[update.curseforge]
+file-id = 5861631
+project-id = 889343

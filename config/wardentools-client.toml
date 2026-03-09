@@ -1,0 +1,6 @@
+#Set the distance of the fog when a storm is active in the Abyss (in blocks)
+# Default: 20
+# Range: 10 ~ 512
+abyssFogIntensity = 20
+#Wind messages are still added to the journal
+displayWindMessages = true

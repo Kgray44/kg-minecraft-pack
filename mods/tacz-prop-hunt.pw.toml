@@ -1,0 +1,13 @@
+name = "[TACZ] Prop Hunt"
+filename = "prophunt-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "93afddc32971e0d4fdf17e79129e6d234f8f94f86c286cb47d9c3a9023c73d85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7262187
+project-id = 1389573

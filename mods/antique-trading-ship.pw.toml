@@ -1,0 +1,13 @@
+name = "Antique Trading Ship"
+filename = "antiquetradingship-1.4.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/antiquetradingship-1.4.0-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "d8449dac9a38ef09ffe13add762b34745e4389432a5b919b5432b5357e229033"
+
+[update]
+[update.curseforge]
+file-id = 6445160
+project-id = 1034045

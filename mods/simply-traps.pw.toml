@@ -1,0 +1,13 @@
+name = "Simply Traps"
+filename = "simply_traps-1.7-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/simply_traps-1.7-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "a254b7f0e5b6d91c8284811e35fa880b1e032a367b489f53c3a08bfb4d024c49"
+
+[update]
+[update.curseforge]
+file-id = 6980507
+project-id = 1172014

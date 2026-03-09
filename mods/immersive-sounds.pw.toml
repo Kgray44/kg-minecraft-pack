@@ -1,0 +1,13 @@
+name = "Immersive Sounds"
+filename = "immersive-sound-0.2.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/immersive-sound-0.2.jar"
+hash-format = "sha256"
+hash = "350e61bdfcfe90c589e6bf1e209955fda9d81b36cd37b889b5aa985d24000d34"
+
+[update]
+[update.curseforge]
+file-id = 6123444
+project-id = 1155318

@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecolonies:barbchiefegg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:stick_netherite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_chestplate","components":{"minecraft:enchantments":{"levels":{"minecraft:breach":4,"minecraft:loyalty":3,"minecraft:flame":1,"minecraft:blast_protection":4,"minecraft:quick_charge":3,"minecraft:infinity":1,"minecraft:channeling":1,"minecraft:power":5,"minecraft:efficiency":5,"minecraft:depth_strider":3,"minecraft:fire_aspect":2,"minecraft:silk_touch":1,"minecraft:punch":2,"minecraft:unbreaking":3,"minecraft:aqua_affinity":1,"minecraft:knockback":2,"minecraft:wind_burst":3,"minecraft:feather_falling":4,"minecraft:thorns":3,"minecraft:swift_sneak":3,"minecraft:sweeping_edge":3}},"minecraft:custom_name":"\"Special Chestplate\"","minecraft:repair_cost":2097151}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_sa:blazing_cleaver"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

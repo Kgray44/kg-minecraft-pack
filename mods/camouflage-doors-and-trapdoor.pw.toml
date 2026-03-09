@@ -1,0 +1,13 @@
+name = "Camouflage Doors and Trapdoor"
+filename = "camoflauge_doors_and_trapdoorfor-1.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "1e66d6b370283f6bcd50a8a8c647393bb00cc2ca3b621a6f90477d0e55da5638"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6397687
+project-id = 1096811

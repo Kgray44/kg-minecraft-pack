@@ -1,0 +1,13 @@
+name = "One Way Glass by kokodev"
+filename = "[NEOFORGE]one_way_glass-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "eef1c3bcb3a0fe0df74ff55b733e9856333bf52a2def98557d33d939ab9c5c0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6472682
+project-id = 1253749

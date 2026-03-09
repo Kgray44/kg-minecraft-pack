@@ -1,0 +1,13 @@
+name = "Aileron"
+filename = "aileron-1.21.1-neoforge-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "18e3fa14e352b3df2fe1e670828ee51120a50b37345dae0e5c3a84c44d557527"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7026961
+project-id = 649925

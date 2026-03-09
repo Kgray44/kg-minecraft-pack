@@ -1,0 +1,13 @@
+name = "Stellaris Extra"
+filename = "NeoForge-StellarisExtra-1.2.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "f9ca16c78972d5ecae0f61fd3d13949ff1d5a255ef255553ef23487a98fae39f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7506576
+project-id = 1409127

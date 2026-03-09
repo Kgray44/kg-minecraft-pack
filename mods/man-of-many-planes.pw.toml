@@ -1,0 +1,13 @@
+name = "Man of Many Planes"
+filename = "man_of_many_planes-0.2.1+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "31edfe5553bb29e0c98c685313790c2887e4995306d69e2cff45f0dafd126949"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6318680
+project-id = 984493

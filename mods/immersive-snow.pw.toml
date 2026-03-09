@@ -1,0 +1,13 @@
+name = "Immersive Snow"
+filename = "immersivesnow-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/immersivesnow-1.21.1-1.4.0.jar"
+hash-format = "sha256"
+hash = "9494aa37b0eff6eba47798a125887417737c824684433d86248b6f190f9f9427"
+
+[update]
+[update.curseforge]
+file-id = 6115110
+project-id = 1058082

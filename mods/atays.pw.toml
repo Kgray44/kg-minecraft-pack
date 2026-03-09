@@ -1,0 +1,13 @@
+name = "Atay's Weapons/Traps"
+filename = "Atay's mods-2.0.3 [NeoForge-1.21.1].jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/atay-mod-2.0.3.jar"
+hash-format = "sha256"
+hash = "5340C4E9DEE4C50F8DA629B54C99A1C747AAE622A46AD0F11425CDC7FE1A3DFC"
+
+[update]
+[update.curseforge]
+file-id = 7380072
+project-id = 1085587

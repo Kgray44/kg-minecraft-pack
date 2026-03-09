@@ -1,0 +1,13 @@
+name = "Treasures of the dead"
+filename = "treasures_of_the_dead-0.7.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "7dab7fc80370f0b6a4ee659d4d02dd12a2aa129199ddf07c05557c58de72515a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7169460
+project-id = 1170894

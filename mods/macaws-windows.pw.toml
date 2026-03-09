@@ -1,0 +1,13 @@
+name = "Macaw's Windows"
+filename = "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "8970c40ec622edd34c9b055226b403af08ab441c77303a6dc625ae18005f8184"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7317672
+project-id = 363569

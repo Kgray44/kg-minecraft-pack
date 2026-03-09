@@ -1,0 +1,13 @@
+name = "Fel's Machine Guns WWI"
+filename = "fels_mgr-1.0.4.1n-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "eb2252aad8ce6c02b1b3b7f238ad541d55670e5d47925ab50dbe600118f56e05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6154440
+project-id = 1173266

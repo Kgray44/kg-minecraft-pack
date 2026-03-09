@@ -1,0 +1,13 @@
+name = "Iguana Lib"
+filename = "iguana_lib-1.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "06b9fe6eb4ee5e024a478dd236aafda394d8961579f062c172aa5cf3db235a81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6074375
+project-id = 1137214

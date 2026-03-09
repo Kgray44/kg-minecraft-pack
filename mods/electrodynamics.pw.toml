@@ -1,0 +1,13 @@
+name = "Electrodynamics"
+filename = "electrodynamics-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "da9adfd36e1858da5fd794489dcfbd4a21e6fc0f846f07d6804f37654fcb4b07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7427042
+project-id = 316867

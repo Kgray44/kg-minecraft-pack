@@ -1,0 +1,13 @@
+name = "Create : Tick Control"
+filename = "createtickcontroller-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "a352bb4418f2c4cc2b041d0ff010727aabf3e93731474a80a86595eb28cceae9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7419954
+project-id = 1418208

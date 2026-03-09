@@ -1,0 +1,13 @@
+name = "Craftable Elytra - The Craftables Series"
+filename = "Craftable Elytra (1.21.1).jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/craftable-elytra-1.21.1.jar"
+hash-format = "sha256"
+hash = "bda4547e4233e9102689e564f36a04a7fa6fac18087520b95758c89f5abfc17b"
+
+[update]
+[update.curseforge]
+file-id = 5991196
+project-id = 864900

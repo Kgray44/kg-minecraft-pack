@@ -1,0 +1,13 @@
+name = "TCT Core"
+filename = "TCTcore-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "3f91096298281c67aaabcf24538359655fead229ebc6065e9d19e5b9b9e54f58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7377772
+project-id = 1060479

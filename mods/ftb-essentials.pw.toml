@@ -1,0 +1,13 @@
+name = "FTB Essentials (Forge & Fabric)"
+filename = "ftb-essentials-neoforge-2101.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "37b2e456a611a2bc2ea9bfce0a2bb04d3a54f4d56a5b12a0c712c9a20e6d7dcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7209620
+project-id = 410811

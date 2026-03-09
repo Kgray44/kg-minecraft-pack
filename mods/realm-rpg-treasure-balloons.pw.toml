@@ -1,0 +1,13 @@
+name = "Realm RPG: Treasure Balloons"
+filename = "realmrpg_balloons-0.9.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/realmrpg_balloons-0.9.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "6979cba8ecc303d079b388293e3f90c48b47d53ad4f5387c6123aa5c20c36701"
+
+[update]
+[update.curseforge]
+file-id = 7252486
+project-id = 1385248

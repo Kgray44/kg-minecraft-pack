@@ -1,0 +1,13 @@
+name = "Waystone Towers"
+filename = "waystone_towers-1.21.1-NEOFORGE-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/waystone_towers-1.21.1-NEOFORGE-1.0.9.jar"
+hash-format = "sha256"
+hash = "3108b6c7d4a7ebd29ca811f366c46f542ef51d1a7f6ca2f7e83c94b31cc75463"
+
+[update]
+[update.curseforge]
+file-id = 6586801
+project-id = 686392

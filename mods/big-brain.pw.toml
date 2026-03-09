@@ -1,0 +1,13 @@
+name = "Big Brain"
+filename = "bigbrain-2.2.5-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "140bfdaec01a5ff45110aab2f9fb779ec0ab51f3ff5a5a1c78a8cbf17608f0a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6641904
+project-id = 421179

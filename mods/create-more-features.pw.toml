@@ -1,0 +1,13 @@
+name = "Create: More Features"
+filename = "create_mf-0.9.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "ab9a25d1edaa2bdff71d578e72097b04020456df3c68d0208024f85413416647"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6593790
+project-id = 1091960

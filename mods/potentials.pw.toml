@@ -1,0 +1,13 @@
+name = "Potentials"
+filename = "potentials-neoforge-1.21-0.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "b09ac57b03593b62e044b5e73536c369598f5181180050942f973210bfdf4cc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6912628
+project-id = 1165185

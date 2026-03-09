@@ -1,0 +1,13 @@
+name = "Mod Menu (NeoForge Edition)"
+filename = "Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "254adf32afefc94a26505a79b66a64907bf07eb6e2a5890b9dd52a913fa53130"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7312908
+project-id = 1393224

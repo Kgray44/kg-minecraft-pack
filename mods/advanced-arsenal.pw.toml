@@ -1,0 +1,13 @@
+name = "Advanced Arsenal"
+filename = "advanced_arsenal-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "da6169a94b763a38b334cb5fd936fb54e2021b8ce7be300ddbd4be4e1a4fa7ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7030398
+project-id = 1353107

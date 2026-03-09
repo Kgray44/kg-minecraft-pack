@@ -1,0 +1,13 @@
+name = "K-Turrets"
+filename = "k_turrets-neoforge-1.21.1-4.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "86f8114724be206a32d508d026d313625505b65e38dc3928f88babed491a3fdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7420236
+project-id = 536437

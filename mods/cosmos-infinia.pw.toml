@@ -1,0 +1,13 @@
+name = "Cosmos Infinia | Space Mod"
+filename = "cosmos_infinia-1.2.1.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "69c04a5ba082970d0b3226f9e2be86c9ccc5fbc0874a05908a5b931999a66133"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7091253
+project-id = 1154107

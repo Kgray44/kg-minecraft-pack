@@ -1,0 +1,13 @@
+name = "Sea Myths"
+filename = "seaeater-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/seaeater-1.0.0.jar"
+hash-format = "sha256"
+hash = "ba3af3a9cb2463d59b79cb321a815fc9f962401ce1ce603f0e28c1d36cc32148"
+
+[update]
+[update.curseforge]
+file-id = 7272865
+project-id = 1394035

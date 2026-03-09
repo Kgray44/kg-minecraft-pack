@@ -1,0 +1,13 @@
+name = "Gliders"
+filename = "gliders-1.21.1-neoforge-1.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "8029cc554dcee66ba779a0db7b043aa75942adf1768a8d5cd5cf90dbcb526975"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6850529
+project-id = 828331

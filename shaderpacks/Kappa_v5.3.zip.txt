@@ -1,0 +1,18 @@
+#Tue Feb 24 20:14:50 EST 2026
+CLOUD_PLANE0_DEPTH=3000.0
+CLOUD_RENDER_LOD=4.0
+RSKY_SI_CloudV_Samples=50
+SVGF_FILTER=false
+airTransmittanceHQ=false
+bloomIntensity=0.3
+cloudCumulusDepth=1600.0
+exposureComplexEnabled=false
+fogClipDist=384.0
+fogDensityMult=0.5
+fogMistAltitude=90.0
+manualExposureValue=9.0
+shadowFilterIterations=9
+shadowMapResolution=1536
+shadowVPSEnabled=false
+ssptEnabled=false
+waterVolumeEnabled=false

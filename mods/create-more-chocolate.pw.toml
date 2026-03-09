@@ -1,0 +1,13 @@
+name = "Create: More Chocolate"
+filename = "create_chocolate-3.5.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/create_chocolate-3.5.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "b3fb0681bbd308d6a8770dd160e25254021095b539f6431c799be9c20744a7c1"
+
+[update]
+[update.curseforge]
+file-id = 6912150
+project-id = 1006891

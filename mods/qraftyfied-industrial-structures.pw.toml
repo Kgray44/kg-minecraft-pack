@@ -1,0 +1,13 @@
+name = "qraftyfied: Industrial Structures"
+filename = "qraftyfied-industrial-structures-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "61f3c89a88e9e4123101eaf689ce38b9b128da03adf0ae364cf50e869b56a423"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5723403
+project-id = 1102823

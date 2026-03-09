@@ -1,0 +1,13 @@
+name = "Trapped!"
+filename = "trapped-1.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/trapped-1.0.2-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "9fb1b00656a5453af1c4450396f2cc59220704bca21755089fb51616da7c7ebe"
+
+[update]
+[update.curseforge]
+file-id = 6203999
+project-id = 1063908

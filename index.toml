@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "e5620c3512b1ffd7b87cc7d0adb12ce50bfc8141671fcc8a1ee5546605a22fad"
+hash = "50e667838c397e16ffb565025b992ad3572f36deda09893ffc78e8d187d1c5a8"
 metafile = true
 
 [[files]]
@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "eb77f8adb730e3c8dfd02d996f4b2b333e91d9bc4df6079b60b0a0d03660f718"
+hash = "deb84055d808cb8ac3b2c94102f634a0292238348e149626ddadf1509ca847f9"
 metafile = true
 
 [[files]]

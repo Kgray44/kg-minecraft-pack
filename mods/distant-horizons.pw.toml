@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7375285
 project-id = 508933
+
+[option]
+optional = true
+default = true
+description = "Very demanding long-distance rendering. Leave disabled on weaker PCs."

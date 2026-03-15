@@ -378,11 +378,6 @@ hash = "e6cbdc242a8de8fa9506c5caac33769e1faf0fb7ddf9e64f171e8efa8582447c"
 metafile = true
 
 [[files]]
-file = "mods/create-storage-neo-forge.pw.toml"
-hash = "ccf20b0b36ddf4e22ccf8f7437f1a1012000474dbaed3ea1ebbeeda9c0f99bd2"
-metafile = true
-
-[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "cdcc069d007c6c0e574ef510d8af0aac6dc60b1446f2aeb9c700760009d9c48c"
 metafile = true

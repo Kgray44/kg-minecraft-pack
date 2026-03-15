@@ -963,6 +963,11 @@ hash = "d375cc4c9f9dbba3341248cb0e5d1dfb54dc9a6ffee00488f39eb710dadcf8a2"
 metafile = true
 
 [[files]]
+file = "mods/traveler-tool-belt.pw.toml"
+hash = "a8fcd083abbcda6613719a228634c257adf8fc678a0ad75776e159f719e29449"
+metafile = true
+
+[[files]]
 file = "mods/treasures-of-the-dead.pw.toml"
 hash = "c28e25969b2d773eed2ae5db83a61a10f163e064b93a69aa4439f7b13f42257d"
 metafile = true

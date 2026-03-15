@@ -53,7 +53,39 @@ Prism will create the instance automatically.
 
 ---
 
-### 5. Launch the Pack
+### 5. Set the Instance Java
+
+You need to select your Java 21 instance so the launcher can use it.
+
+Right-click the modpack instance in **Prism Launcher**
+
+Click:
+
+*Edit*
+
+Open the **Settings** tab.
+
+Open the **Java** tab.
+
+Check the box:
+
+*Java installation*
+
+Click:
+
+*Detect*
+
+Prism will search your computer for installed Java versions.
+
+Select a **Java 21** installation from the list.
+
+Click **OK**.
+
+*The modpack requires **Java 21** to run.
+
+---
+
+### 6. Launch the Pack
 
 Click **Play**.
 

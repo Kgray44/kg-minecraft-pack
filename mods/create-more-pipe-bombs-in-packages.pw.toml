@@ -3,8 +3,8 @@ filename = "cmpackagepipebomb-neoforge-2.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4976a5844160d5e6484f01fdaa3068e5dac40d67"
+hash-format = "sha256"
+hash = "e879fef3037bf04bdc54b86cbc54f7e5189c42d4b6fe981533f74ff601828280"
 mode = "metadata:curseforge"
 
 [update]

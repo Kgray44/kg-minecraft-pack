@@ -3,8 +3,8 @@ filename = "ccomunityboxes-2.3-neoForge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dff593b0eb5c88298627d2b2acbbdc12f73c189e"
+hash-format = "sha256"
+hash = "f2cea5557c40c7acf99a01f1755cd5ed1cd73d79d7b1c7f710108da81e962d60"
 mode = "metadata:curseforge"
 
 [update]

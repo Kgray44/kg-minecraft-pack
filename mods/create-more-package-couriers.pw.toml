@@ -3,8 +3,8 @@ filename = "cmpackagecouriers-neoforge-2.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b702083f66cad14464323b6360da6ce478c1895b"
+hash-format = "sha256"
+hash = "34175a22b632843ee4e6785da35cd5b210a268d7ed6afe3da5806b701d953226"
 mode = "metadata:curseforge"
 
 [update]

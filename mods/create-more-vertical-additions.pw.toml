@@ -3,8 +3,8 @@ filename = "cmverticaladditions-neoforge-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "faf3ed076269d27fcabaffae345cf309d1d7f16a"
+hash-format = "sha256"
+hash = "b07bae832df2ec42347dcd97f37dff0c51afcd3d5d8327a4446c2b00e0868d18"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "travelertoolbelt-neoforge-1.21.1-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e3123efa9eaf4b8622d3841c08d90eef5aa9d041"
+hash-format = "sha256"
+hash = "856381dd93be4050f27d4b8f37acb37827b0965b95ac4afdab29b127f885d124"
 mode = "metadata:curseforge"
 
 [update]

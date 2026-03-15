@@ -14,5 +14,5 @@ project-id = 508933
 
 [option]
 optional = true
-default = true
 description = "Very demanding long-distance rendering. Leave disabled on weaker PCs."
+default = true

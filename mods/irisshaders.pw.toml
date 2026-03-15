@@ -14,5 +14,5 @@ project-id = 455508
 
 [option]
 optional = true
-default = true
 description = "Shader support. Disable on very weak PCs."
+default = true

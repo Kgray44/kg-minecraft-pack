@@ -289,7 +289,7 @@ key_key.cosmos_infinia.space_helmet_text:key.keyboard.u
 key_key.cosmos_infinia.set_accelerant_lvl:key.keyboard.y
 key_key.cosmos_infinia.change_drill_mode:key.keyboard.r
 key_key.tacz.inspect.desc:key.keyboard.h
-key_key.tacz.reload.desc:key.keyboard.f
+key_key.tacz.reload.desc:key.keyboard.r
 key_key.tacz.shoot.desc:key.mouse.left
 key_key.tacz.interact.desc:key.keyboard.o
 key_key.tacz.fire_select.desc:key.keyboard.g

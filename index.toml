@@ -525,11 +525,6 @@ hash = "0319f4a0f79d2384e9cb04b36481c6146e436a5e2368c1318651deea1ed4e47f"
 metafile = true
 
 [[files]]
-file = "mods/flerovium.pw.toml"
-hash = "1e8c18bee7a056c9c549a77635df72723ed55bab74ee53909ebe8feefa802e03"
-metafile = true
-
-[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "08151f8af3074bfe50eb7e9864c575c3cedf84163b914647efc5a88a774179c9"
 metafile = true

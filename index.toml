@@ -753,11 +753,6 @@ hash = "a59f77567dcaa2c003a2664a6e20c038d028af66ac43955de12b1cf2920c7200"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
-metafile = true
-
-[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "8a384c5a699ac87eb1d9888debbc5288aa9d09884071e1da28a9d22c4a5a50f1"
 metafile = true
@@ -965,11 +960,6 @@ metafile = true
 [[files]]
 file = "mods/trapped.pw.toml"
 hash = "d375cc4c9f9dbba3341248cb0e5d1dfb54dc9a6ffee00488f39eb710dadcf8a2"
-metafile = true
-
-[[files]]
-file = "mods/traveler-tool-belt.pw.toml"
-hash = "a8fcd083abbcda6613719a228634c257adf8fc678a0ad75776e159f719e29449"
 metafile = true
 
 [[files]]

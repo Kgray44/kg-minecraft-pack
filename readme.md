@@ -8,15 +8,23 @@ Mods are automatically downloaded and kept up to date using **packwiz**.
 
 # Installation (Prism Launcher)
 
-### 1. Install Prism Launcher
+### 1. Install Java 21
 
-Download and install Prism Launcher:
+Download and install Java Version 21 (DO NOT install Java 17 or Java 25):
 
-https://prismlauncher.org/download/
+[Download Java 21](https://www.oracle.com/java/technologies/downloads/#java21)
 
 ---
 
-### 2. Download the Modpack
+### 2. Install Prism Launcher
+
+Download and install Prism Launcher:
+
+[Download Prism Launcher](https://prismlauncher.org/download/)
+
+---
+
+### 3. Download the Modpack
 
 Download the Prism instance file:
 
@@ -24,7 +32,7 @@ Download the Prism instance file:
 
 ---
 
-### 3. Import the Instance
+### 4. Import the Instance
 
 Open **Prism Launcher**
 
@@ -44,7 +52,7 @@ Prism will create the instance automatically.
 
 ---
 
-### 4. Launch the Pack
+### 5. Launch the Pack
 
 Click **Play**.
 

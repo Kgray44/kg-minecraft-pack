@@ -184,11 +184,6 @@ hash = "1ce95ba06a121f0fc03376fe36ee41ac97c8b09d5842c6c9a3602b7ed9db8991"
 metafile = true
 
 [[files]]
-file = "mods/beltborne-lanterns.pw.toml"
-hash = "8773642b81511424dca1a69ae4ed6df6f0b788393b24b499decd9526feb61076"
-metafile = true
-
-[[files]]
 file = "mods/better-library.pw.toml"
 hash = "0382238ec2ac7432366c661d09e56d737f8507c08f5ac1066ca884bdb3de8bd5"
 metafile = true
@@ -630,11 +625,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "bb88bf3b597e9e2daac043f692d8ffb02fca50008e9e18722596b3b4b85126e9"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "ff056ce8d4f6621a6e30e0cc6e05ae3ab2a1c07b34ea9ccfe3fe3473d83721f8"
 metafile = true
 
 [[files]]

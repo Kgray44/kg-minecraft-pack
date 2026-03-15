@@ -323,6 +323,21 @@ hash = "2f071880b07545d0823d06f804aa4a9dbf7b3aef56fe30f0a191acf791004751"
 metafile = true
 
 [[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "97821c0950549900f55d57bc293c5b38e5bb962852116236d7e5500e5400a492"
+metafile = true
+
+[[files]]
+file = "mods/create-more-packages.pw.toml"
+hash = "451a9ae7f6d2e57c556ef6a86d4dae5843f174e7731149edfbf6de280d7f969a"
+metafile = true
+
+[[files]]
+file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
+hash = "f999b1b6a84e63a44ebbbe79164217f1327a1cc823d80da81e960faefdc1277c"
+metafile = true
+
+[[files]]
 file = "mods/create-more-vertical-additions.pw.toml"
 hash = "a81cceb58c8e6521ddbbb338e7604e6cf74e36129150b401e34405c039132069"
 metafile = true

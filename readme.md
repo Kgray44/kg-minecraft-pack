@@ -26,9 +26,10 @@ Download and install Prism Launcher:
 
 ### 3. Download the Modpack
 
-Download the Prism instance file:
+Download the latest released Prism instance file found in *Releases*:
 
-**KG_Modpack_Prism_Instance.zip**
+[**KG_Modpack_Prism_Instance.zip**](https://github.com/Kgray44/kg-minecraft-pack/releases)
+
 
 ---
 
@@ -130,7 +131,7 @@ These can be adjusted in:
 
 Disable heavy graphics mods:
 
-*Edit Instance → Optional Mods*
+*Edit Instance → Mods*
 
 Turn off:
 

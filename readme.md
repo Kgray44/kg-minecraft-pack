@@ -125,6 +125,92 @@ Disabling these will improve performance.
 
 ---
 
+## Shader Guide
+
+This modpack includes several shaderpacks so players can choose the visual style and performance level that works best for their system.
+
+Shaders are **optional** and can be enabled from:
+
+*Options → Video Settings → Shaders*
+
+Below are some recommended choices.
+
+### Best Performance
+
+**BSL Shaders**
+
+Recommended for players with weaker GPUs or laptops.
+
+- Good balance of visuals and performance  
+
+- Stable with most mods  
+
+- Works well with **Distant Horizons**
+
+A great **default shader** for most systems.
+
+### Best Visual Quality
+
+**Kappa Shaders**
+
+One of the most visually impressive shaders included in the pack.
+
+- Extremely realistic lighting  
+
+- Beautiful atmospheric effects  
+
+- Very demanding on GPU  
+
+⚠️ **Not compatible with Distant Horizons**
+
+Recommended only for **high-end PCs**.
+
+### Best Visual Quality (Distant Horizons Compatible)
+
+**Bliss Shaders**
+
+A great alternative to Kappa when using **Distant Horizons**.
+
+- Excellent lighting and atmosphere  
+
+- Compatible with **Distant Horizons**  
+
+- Moderate to high GPU usage
+
+Recommended for players who want **high visual quality with distant terrain rendering**.
+
+### Other Included Shaders
+
+Additional shaderpacks included for experimentation:
+
+- Complementary  
+
+- Photon  
+
+- Chocapic  
+
+- KUDA  
+
+- projectLUMA  
+
+- Solas  
+
+- SEUS  
+
+Players are encouraged to try different shaders to find their preferred balance between **performance and visuals**.
+
+### Quick Comparison
+
+| Shader     | Visual Quality | Performance | Distant Horizons |
+|------------|----------------|---------------|-----|
+| **BSL**    | ⭐⭐⭐        | ⭐⭐⭐⭐    | ✅ |
+| **Bliss**  | ⭐⭐⭐⭐     | ⭐⭐         | ✅ |
+| **Kappa**  | ⭐⭐⭐⭐⭐   | ⭐           | ❌ |
+
+**Recommended default shader:** BSL (best balance of visuals and performance).
+
+---
+
 # Updating the Pack
 
 Updates are automatic.
@@ -143,9 +229,9 @@ No manual updates required.
 
 For best performance:
 
-- RAM: 5 GB minimum
+- Prism Allocated RAM: 5 GB minimum
 
-- RAM: 8-10 GB recommended
+- Prism Allocated RAM: 8-10 GB recommended
 
 - Java: Version 21
 
@@ -191,3 +277,9 @@ Contact me for the server IP address.
 Modpack assembled by **KG**
 
 Thanks to the authors of all included mods.
+
+---
+
+## Notes
+
+Some disabled mods are intentionally retained for testing, compatibility rollback, or future optional features.

@@ -273,6 +273,11 @@ hash = "386ef33b9df2813ee4d6dd372fb3223562b3ff07b5d1fb48228db219d0cd410a"
 metafile = true
 
 [[files]]
+file = "mods/create-better-fps.pw.toml"
+hash = "a99cbea1118047b1f042a70af6535cab1b5982621beb8f6acebe453e764f0be4"
+metafile = true
+
+[[files]]
 file = "mods/create-better-motors.pw.toml"
 hash = "6c6cf2d6d2a2c9360b56b1ff945a797ccbffd4ebea0b9f51b3260871cb95b6ed"
 metafile = true
@@ -288,6 +293,11 @@ hash = "4b61d3b260d8f4b53a2103d25baedb60cf3c2aaeb5ba60f3e7a59d98818d6d8c"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "3193eadd1b5129f83987593b5abc03a301b962e7da217a15d5e575646711db46"
+metafile = true
+
+[[files]]
 file = "mods/create-cyber-goggles.pw.toml"
 hash = "2bd0e72abf7c4b025d2685ec0981ca0b4a4b7274f4283e2b79421911aebb4e90"
 metafile = true
@@ -300,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/create-delete-and-repeat.pw.toml"
 hash = "b4c75bf7bcf4d29c5a4784d462b43fdea2aaa257f6390127cd7c009e8afea002"
+metafile = true
+
+[[files]]
+file = "mods/create-escalated.pw.toml"
+hash = "453e009587d1dc000d03bd5087ecd4e4d0f1f6fa7b49768ef1ee031a4ad624a9"
 metafile = true
 
 [[files]]
@@ -345,6 +360,16 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "519472baad3f5fec5b470934ab58f3d2d829dd991ff7382ab011f86265ada4fe"
+metafile = true
+
+[[files]]
+file = "mods/create-numismatics-create-6-0-integration.pw.toml"
+hash = "37cedf9219acc2d5b20edfea3595d6a066ebbf0c70189f8c2821b561d3acfc12"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
 metafile = true
 
 [[files]]
@@ -492,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/fish-of-thieves.pw.toml"
 hash = "0319f4a0f79d2384e9cb04b36481c6146e436a5e2368c1318651deea1ed4e47f"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "1e8c18bee7a056c9c549a77635df72723ed55bab74ee53909ebe8feefa802e03"
 metafile = true
 
 [[files]]
@@ -904,6 +934,21 @@ hash = "d4ead98e1e6c123227453f7824a98c8ea0a4776015dfe0cd92e3793374d5f1e7"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "374530929ddb21f7b4f0805ccee776f512484a3c3407b0e614c216a54a0a7e69"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "a2bb36d782a9babcf72faa8e3ccd5bb9a6e252eedab8bea698b1af34fa2fe552"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "697713e665adc70336c0667d825738fab2467ece39f084e421b72ce4b36d2cb0"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-perfected.pw.toml"
 hash = "628e1d441a586e35d0a6fb2685e75344bb510323f39fce077d3d71d42567887e"
 metafile = true
@@ -1047,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "04e95ca1cf7f4acef1c33b9fcb53f341941cf3c4b4850ad551a393ed105d3179"
+hash = "9ed6b51f7e4a9ae955f085e0c29bb85c4d749de91827848daf06e8f7387264b7"
 
 [[files]]
 file = "resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip"

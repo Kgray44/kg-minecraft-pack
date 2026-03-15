@@ -105,11 +105,6 @@ file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar.disabled"
 hash = "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
-metafile = true
-
-[[files]]
 file = "mods/advanced-arsenal.pw.toml"
 hash = "c87ff0dcb6c62764965e316a541d49123e68d6c7a9dbf17887ede922e8228597"
 metafile = true
@@ -186,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "1ce95ba06a121f0fc03376fe36ee41ac97c8b09d5842c6c9a3602b7ed9db8991"
+metafile = true
+
+[[files]]
+file = "mods/beltborne-lanterns.pw.toml"
+hash = "8773642b81511424dca1a69ae4ed6df6f0b788393b24b499decd9526feb61076"
 metafile = true
 
 [[files]]

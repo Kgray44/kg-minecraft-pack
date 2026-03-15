@@ -184,6 +184,11 @@ hash = "1ce95ba06a121f0fc03376fe36ee41ac97c8b09d5842c6c9a3602b7ed9db8991"
 metafile = true
 
 [[files]]
+file = "mods/beltborne-lanterns.pw.toml"
+hash = "8773642b81511424dca1a69ae4ed6df6f0b788393b24b499decd9526feb61076"
+metafile = true
+
+[[files]]
 file = "mods/better-library.pw.toml"
 hash = "0382238ec2ac7432366c661d09e56d737f8507c08f5ac1066ca884bdb3de8bd5"
 metafile = true
@@ -628,6 +633,11 @@ hash = "bb88bf3b597e9e2daac043f692d8ffb02fca50008e9e18722596b3b4b85126e9"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ff056ce8d4f6621a6e30e0cc6e05ae3ab2a1c07b34ea9ccfe3fe3473d83721f8"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "500679807f956db0ad9b20a68c10837cd6de79f00fee3fd4042ab3e48a4a4200"
 metafile = true
@@ -1022,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2395c457d5d827373fad0d1fb18ffeabeff39551206b3d24baeb509ccf4b52ae"
+hash = "4845e8154fb29f3f537cb81e7c721bbc1829d560c04dc5fe10ae55155528207f"
 
 [[files]]
 file = "resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip"

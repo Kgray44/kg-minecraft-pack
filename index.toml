@@ -33,6 +33,10 @@ file = "hosted-mods/create_ltab-3.8.2.jar"
 hash = "533626d864c4505aa982e6801172827edfc339f6efab2bbf38b9d5222dd2393a"
 
 [[files]]
+file = "hosted-mods/create_recycle_everything-1.0.1.jar"
+hash = "eab61f8db8120443c30f062082cbbd0db1055d531051276add01f81be0532f8b"
+
+[[files]]
 file = "hosted-mods/create_structures_arise-173.46.45 Release-neoforge-1.21.1.jar"
 hash = "68151c708068b06757ae0bb366a4c0ec8928ca83b364dd3484f0cae57e7b966f"
 
@@ -489,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "e6cbdc242a8de8fa9506c5caac33769e1faf0fb7ddf9e64f171e8efa8582447c"
+metafile = true
+
+[[files]]
+file = "mods/create-recycle-everything-1-0-1.pw.toml"
+hash = "f9a971cd1c49e9cddd5f71109ec39e485cbd19a668887f176a09990d41e7fd2f"
 metafile = true
 
 [[files]]

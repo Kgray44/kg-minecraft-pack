@@ -1,0 +1,8 @@
+name = "create_recycle_everything-1.0.1"
+filename = "create_recycle_everything-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/create_recycle_everything-1.0.1.jar"
+hash-format = "sha256"
+hash = "eab61f8db8120443c30f062082cbbd0db1055d531051276add01f81be0532f8b"

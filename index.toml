@@ -227,6 +227,11 @@ hash = "5e23f338ef989b1b340485aeb738f354148edbbacf306a74b39d754b7ee0728b"
 metafile = true
 
 [[files]]
+file = "mods/bjornlib.pw.toml"
+hash = "6d833096b4694312d57f90121de9cfc066db620a176e7de34c44e9aec8a4cac8"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "9672f55532afb7a7be00e1608aefe28b22a79416efef4826be1a60cd228bc17d"
 metafile = true
@@ -234,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/bugs-aplenty.pw.toml"
 hash = "ec8fdd311cd06d46534c2f97051772c5ccbdea8a5c527ce7bda5c2a9cebe0de6"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
@@ -322,6 +332,16 @@ hash = "c35bc6385cac0836f60c3d009ba67ec1aefbb90fbd7782133f3ecf1e38f07dad"
 metafile = true
 
 [[files]]
+file = "mods/create-cardboarded-conveynience.pw.toml"
+hash = "853a3c898d0beef5c3c1e51553a15e82aaf26d4783d603a9b2f5e9d789828bd7"
+metafile = true
+
+[[files]]
+file = "mods/create-chimneys.pw.toml"
+hash = "cb74948c9902da6528e7014bc2cf6bd43b0d8b4a245d170d0e5af65bbe549c2a"
+metafile = true
+
+[[files]]
 file = "mods/create-complete-immersive-aircraft.pw.toml"
 hash = "4b61d3b260d8f4b53a2103d25baedb60cf3c2aaeb5ba60f3e7a59d98818d6d8c"
 metafile = true
@@ -367,6 +387,11 @@ hash = "d95e6392334e535403a5429904b77755b4a9716617f61618f7a4e608665764bd"
 metafile = true
 
 [[files]]
+file = "mods/create-fluid.pw.toml"
+hash = "2ae06f1032e9b78ca8cb5dca9a1c06a06bfc2be38fd88f2cffa05e24da1c6f2c"
+metafile = true
+
+[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "4bff1ba2021d536f1bf77b417bc502f548ac30ced8c43f298e9aeb84131aebe4"
 metafile = true
@@ -377,8 +402,18 @@ hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
 metafile = true
 
 [[files]]
+file = "mods/create-ironworks.pw.toml"
+hash = "280679815c07172ffb7c2bc66277eb95aaa9efa1fd31ea324004aef3069f06b6"
+metafile = true
+
+[[files]]
 file = "mods/create-ltab-3-8-2.pw.toml"
 hash = "631854c91855f761d219b0ff94fdd3f7ff526118cc1b30d72764abcc6338c89b"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-companion.pw.toml"
+hash = "2b93e4907288c381bfbbac091c95d5ce46a1a8872747e46d9e5f701e85021568"
 metafile = true
 
 [[files]]
@@ -442,6 +477,11 @@ hash = "5a78ece537f60bad02193bde40ac7fa0750a0d4a60117b0c93d8dd59aae3c94c"
 metafile = true
 
 [[files]]
+file = "mods/create-ornithopter-glider.pw.toml"
+hash = "7f935bff68e7987e4734d0a9bacd44727c249415355b130ac5f445fd0ac0c0c9"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "463e3d85a89949e6fe18512677ee6b0409bff4d4423139e01fb3892472dea508"
 metafile = true
@@ -449,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "e6cbdc242a8de8fa9506c5caac33769e1faf0fb7ddf9e64f171e8efa8582447c"
+metafile = true
+
+[[files]]
+file = "mods/create-recycling-everything-neo.pw.toml"
+hash = "901c63260906c006de05b04c678c3ecc5332e787e77d42800129ad50e02d5735"
 metafile = true
 
 [[files]]

@@ -367,11 +367,6 @@ hash = "d95e6392334e535403a5429904b77755b4a9716617f61618f7a4e608665764bd"
 metafile = true
 
 [[files]]
-file = "mods/create-fuel-and-water-information.pw.toml"
-hash = "6570c4cc4ea11f7ad70fc7a8267a02e7ea0619e8ca5970ce13195ddf42888bf1"
-metafile = true
-
-[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "4bff1ba2021d536f1bf77b417bc502f548ac30ced8c43f298e9aeb84131aebe4"
 metafile = true
@@ -454,11 +449,6 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "e6cbdc242a8de8fa9506c5caac33769e1faf0fb7ddf9e64f171e8efa8582447c"
-metafile = true
-
-[[files]]
-file = "mods/create-real-stack-size.pw.toml"
-hash = "6d51d6375f2c45486988097019ac2e9a53decfd682ffcf70a60afaee8373a4cd"
 metafile = true
 
 [[files]]

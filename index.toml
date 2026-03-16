@@ -9,6 +9,10 @@ file = "hosted-mods/atay-mod-2.0.3.jar"
 hash = "5340c4e9dee4c50f8da629b54c99a1c747aae622a46ad0f11425cdc7fe1a3dfc"
 
 [[files]]
+file = "hosted-mods/coincraft-1.1.0.jar"
+hash = "725d1b1a64779aa18e759f06d42a1fa7ffdd91480b6fb0fd27f0e2783755a473"
+
+[[files]]
 file = "hosted-mods/copperagebackport-neoforge-1.21.1-0.1.4.jar"
 hash = "1cd0007d427be712d303f5a6f8084c67a2635f02e686e8c9c824cc1dcfdfa272"
 

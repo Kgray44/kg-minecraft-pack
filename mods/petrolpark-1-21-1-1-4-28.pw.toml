@@ -1,0 +1,8 @@
+name = "petrolpark-1.21.1-1.4.28"
+filename = "petrolpark-1.21.1-1.4.28.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/petrolpark-1.21.1-1.4.28.jar"
+hash-format = "sha256"
+hash = "49fc72663cbf390e1d919a43543b1babef797bbfa38dd5ed92d2cf518fe6117e"

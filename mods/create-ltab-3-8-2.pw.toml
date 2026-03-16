@@ -1,0 +1,8 @@
+name = "create_ltab-3.8.2"
+filename = "create_ltab-3.8.2.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/create_ltab-3.8.2.jar"
+hash-format = "sha256"
+hash = "533626d864c4505aa982e6801172827edfc339f6efab2bbf38b9d5222dd2393a"

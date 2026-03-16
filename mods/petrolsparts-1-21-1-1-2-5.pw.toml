@@ -1,0 +1,8 @@
+name = "petrolsparts-1.21.1-1.2.5"
+filename = "petrolsparts-1.21.1-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/petrolsparts-1.21.1-1.2.5.jar"
+hash-format = "sha256"
+hash = "5e7e424443ea274a3ada3a68de1d80d2a428c09289977063174b5bd37a2cebe0"

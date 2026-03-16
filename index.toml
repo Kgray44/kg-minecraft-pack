@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "hosted-mods/DnDesires-1.21.1-2.2d-BETA.jar"
+hash = "8718c117ba98e7fd92312a73b37f20fc8cbfac800963bc5ced4eb49ccdb11330"
+
+[[files]]
 file = "hosted-mods/antiquetradingship-1.4.0-neoforge-1.21.1.jar"
 hash = "d8449dac9a38ef09ffe13add762b34745e4389432a5b919b5432b5357e229033"
 
@@ -23,6 +27,10 @@ hash = "bda4547e4233e9102689e564f36a04a7fa6fac18087520b95758c89f5abfc17b"
 [[files]]
 file = "hosted-mods/create_chocolate-3.5.0-1.21.1.jar"
 hash = "b3fb0681bbd308d6a8770dd160e25254021095b539f6431c799be9c20744a7c1"
+
+[[files]]
+file = "hosted-mods/create_ltab-3.8.2.jar"
+hash = "533626d864c4505aa982e6801172827edfc339f6efab2bbf38b9d5222dd2393a"
 
 [[files]]
 file = "hosted-mods/create_structures_arise-173.46.45 Release-neoforge-1.21.1.jar"
@@ -67,6 +75,14 @@ hash = "b16f09d41cbbcb7c3736b524ad87b3185b1c36125f5b2c7297f6c1970931ec95"
 [[files]]
 file = "hosted-mods/immersivesnow-1.21.1-1.4.0.jar"
 hash = "9494aa37b0eff6eba47798a125887417737c824684433d86248b6f190f9f9427"
+
+[[files]]
+file = "hosted-mods/petrolpark-1.21.1-1.4.28.jar"
+hash = "49fc72663cbf390e1d919a43543b1babef797bbfa38dd5ed92d2cf518fe6117e"
+
+[[files]]
+file = "hosted-mods/petrolsparts-1.21.1-1.2.5.jar"
+hash = "5e7e424443ea274a3ada3a68de1d80d2a428c09289977063174b5bd37a2cebe0"
 
 [[files]]
 file = "hosted-mods/realmrpg_balloons-0.9.1-neoforge-1.21.1.jar"
@@ -336,11 +352,6 @@ hash = "b4c75bf7bcf4d29c5a4784d462b43fdea2aaa257f6390127cd7c009e8afea002"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "275ca17c0de3d568298d54114278ee26af7de78a07b0acfb5f996ee27242352b"
-metafile = true
-
-[[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "5b610876dae9779654c74b1a71d15c0303a39eb62459201921b30f4731985e18"
 metafile = true
@@ -371,8 +382,8 @@ hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
 metafile = true
 
 [[files]]
-file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "1b4f83d303390fed352fb89645ebb3ab318b67ba684fe6774609e7c745e9a108"
+file = "mods/create-ltab-3-8-2.pw.toml"
+hash = "631854c91855f761d219b0ff94fdd3f7ff526118cc1b30d72764abcc6338c89b"
 metafile = true
 
 [[files]]
@@ -559,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/distantlandsmc-1.0.0.jar.disabled"
 hash = "c66e739a92e6b79a114bf432325aa0fd301912de6f013cfc5b1817e4538d25ca"
+
+[[files]]
+file = "mods/dndesires-1-21-1-2-2d-beta.pw.toml"
+hash = "a87ee9ea451391fae16111bf1aa81f836ce69a08cd3672ee41f826da21017abb"
+metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
@@ -911,13 +927,13 @@ hash = "4f9dfcd8a00e05c4ab8e261a3de60a51cf52a3fb6964fec80ff97fe572a31019"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "6c24f0cecebba030bbb8b82c114e920582c5b2f20ba66287b724cf283299a70f"
+file = "mods/petrolpark-1-21-1-1-4-28.pw.toml"
+hash = "ede76e44c0ea8e9a5d87d489d6ab5f6747ab1bca28fff3b0430484151490f8b7"
 metafile = true
 
 [[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "7833022cdaab3841505c6d934f5c265a10d0e0034eb12b01535c0780c9253d38"
+file = "mods/petrolsparts-1-21-1-1-2-5.pw.toml"
+hash = "1b2091acb97fd1e237426b50e3c9898dfb8215a7e0c4fc844440ea6e599f6f6e"
 metafile = true
 
 [[files]]

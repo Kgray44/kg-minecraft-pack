@@ -1,0 +1,8 @@
+name = "coincraft-1.1.0"
+filename = "coincraft-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/coincraft-1.1.0.jar"
+hash-format = "sha256"
+hash = "725d1b1a64779aa18e759f06d42a1fa7ffdd91480b6fb0fd27f0e2783755a473"

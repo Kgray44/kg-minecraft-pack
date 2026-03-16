@@ -241,6 +241,11 @@ hash = "f04befc1830d68b778a187fcd5b5c7cdbad783c4ac2e8766b9c683ff78c881fa"
 metafile = true
 
 [[files]]
+file = "mods/coincraft-1-1-0.pw.toml"
+hash = "329ec3fb5724273de7d0652e95d704b28d4c7360ad515edefb829154ea126e0e"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "ba577134d2bd28915750f8d0090d70b90cbfb7ed2b9715dd339189af3576f249"
 metafile = true
@@ -403,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/create-rustic-structures.pw.toml"
 hash = "ce9000fdc0d92fb85f00d0faa3aef9e8606bd1215dc3da1ef9298ef50b35fe47"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "3d1c015c0b2c32d8099a56fdfbebd9f678d6c436700c1c5353a29857e31a25cc"
 metafile = true
 
 [[files]]

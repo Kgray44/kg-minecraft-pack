@@ -316,6 +316,11 @@ hash = "bcc0d0931a741fb776046985d74a3b9785da5043a208687e5c5bc17746953384"
 metafile = true
 
 [[files]]
+file = "mods/create-creafable-redstone.pw.toml"
+hash = "3b262b345804baada39a9e56230c81c77c424edcb0c9c97564be360ac05ebf0b"
+metafile = true
+
+[[files]]
 file = "mods/create-cyber-goggles.pw.toml"
 hash = "2bd0e72abf7c4b025d2685ec0981ca0b4a4b7274f4283e2b79421911aebb4e90"
 metafile = true
@@ -331,6 +336,11 @@ hash = "b4c75bf7bcf4d29c5a4784d462b43fdea2aaa257f6390127cd7c009e8afea002"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-desires.pw.toml"
+hash = "275ca17c0de3d568298d54114278ee26af7de78a07b0acfb5f996ee27242352b"
+metafile = true
+
+[[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "5b610876dae9779654c74b1a71d15c0303a39eb62459201921b30f4731985e18"
 metafile = true
@@ -341,8 +351,33 @@ hash = "658494e34412c0979049179b456929b53f4aefe3c70490bc6f97bcd517127c7a"
 metafile = true
 
 [[files]]
+file = "mods/create-extra-gauges.pw.toml"
+hash = "d95e6392334e535403a5429904b77755b4a9716617f61618f7a4e608665764bd"
+metafile = true
+
+[[files]]
+file = "mods/create-fuel-and-water-information.pw.toml"
+hash = "6570c4cc4ea11f7ad70fc7a8267a02e7ea0619e8ca5970ce13195ddf42888bf1"
+metafile = true
+
+[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "4bff1ba2021d536f1bf77b417bc502f548ac30ced8c43f298e9aeb84131aebe4"
+metafile = true
+
+[[files]]
+file = "mods/create-industry.pw.toml"
+hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
+metafile = true
+
+[[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "1b4f83d303390fed352fb89645ebb3ab318b67ba684fe6774609e7c745e9a108"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "4e3f30f99de4e85f1e181d40b3129e78b7920a8ce34fd526c5a3e4ded1b3c508"
 metafile = true
 
 [[files]]
@@ -396,6 +431,11 @@ hash = "7b47a56ac245914c210b9f3ebf180c0a9ac6f83bc0794f07ad398760eb094803"
 metafile = true
 
 [[files]]
+file = "mods/create-optical.pw.toml"
+hash = "5a78ece537f60bad02193bde40ac7fa0750a0d4a60117b0c93d8dd59aae3c94c"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "463e3d85a89949e6fe18512677ee6b0409bff4d4423139e01fb3892472dea508"
 metafile = true
@@ -403,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "e6cbdc242a8de8fa9506c5caac33769e1faf0fb7ddf9e64f171e8efa8582447c"
+metafile = true
+
+[[files]]
+file = "mods/create-real-stack-size.pw.toml"
+hash = "6d51d6375f2c45486988097019ac2e9a53decfd682ffcf70a60afaee8373a4cd"
 metafile = true
 
 [[files]]
@@ -863,6 +908,16 @@ metafile = true
 [[files]]
 file = "mods/perspatium.pw.toml"
 hash = "4f9dfcd8a00e05c4ab8e261a3de60a51cf52a3fb6964fec80ff97fe572a31019"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark-library.pw.toml"
+hash = "6c24f0cecebba030bbb8b82c114e920582c5b2f20ba66287b724cf283299a70f"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "7833022cdaab3841505c6d934f5c265a10d0e0034eb12b01535c0780c9253d38"
 metafile = true
 
 [[files]]

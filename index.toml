@@ -501,11 +501,6 @@ hash = "f9a971cd1c49e9cddd5f71109ec39e485cbd19a668887f176a09990d41e7fd2f"
 metafile = true
 
 [[files]]
-file = "mods/create-recycling-everything-neo.pw.toml"
-hash = "901c63260906c006de05b04c678c3ecc5332e787e77d42800129ad50e02d5735"
-metafile = true
-
-[[files]]
 file = "mods/create-rustic-structures.pw.toml"
 hash = "ce9000fdc0d92fb85f00d0faa3aef9e8606bd1215dc3da1ef9298ef50b35fe47"
 metafile = true

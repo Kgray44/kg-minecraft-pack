@@ -292,6 +292,11 @@ hash = "ff66cbdc83835f2a9369e0d0ed802b45486ff18ac8980d2760a90c84b7f34b87"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "c35bc6385cac0836f60c3d009ba67ec1aefbb90fbd7782133f3ecf1e38f07dad"
+metafile = true
+
+[[files]]
 file = "mods/create-complete-immersive-aircraft.pw.toml"
 hash = "4b61d3b260d8f4b53a2103d25baedb60cf3c2aaeb5ba60f3e7a59d98818d6d8c"
 metafile = true
@@ -314,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/create-delete-and-repeat.pw.toml"
 hash = "b4c75bf7bcf4d29c5a4784d462b43fdea2aaa257f6390127cd7c009e8afea002"
+metafile = true
+
+[[files]]
+file = "mods/create-easy-structures.pw.toml"
+hash = "5b610876dae9779654c74b1a71d15c0303a39eb62459201921b30f4731985e18"
 metafile = true
 
 [[files]]
@@ -367,6 +377,11 @@ hash = "519472baad3f5fec5b470934ab58f3d2d829dd991ff7382ab011f86265ada4fe"
 metafile = true
 
 [[files]]
+file = "mods/create-new-beginnings.pw.toml"
+hash = "eb2756f9aa3f8395c8a1872847c35b434a8786e909ecbacf04b85713c659869b"
+metafile = true
+
+[[files]]
 file = "mods/create-numismatics-create-6-0-integration.pw.toml"
 hash = "7b47a56ac245914c210b9f3ebf180c0a9ac6f83bc0794f07ad398760eb094803"
 metafile = true
@@ -379,6 +394,26 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "e6cbdc242a8de8fa9506c5caac33769e1faf0fb7ddf9e64f171e8efa8582447c"
+metafile = true
+
+[[files]]
+file = "mods/create-rustic-structures.pw.toml"
+hash = "ce9000fdc0d92fb85f00d0faa3aef9e8606bd1215dc3da1ef9298ef50b35fe47"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "6fdc060cec2fab300adc6f9c3f8f169db4435d71657a82fd71f7fa68c778ab93"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-overhaul.pw.toml"
+hash = "abdffe7d19bd5f08bea9a1c4689d5c807302e513977164bac3586ee3ef16be5a"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "6f51e1bed0f711d9ef87823e7f60b33fdb350b65a8dc09d6eb6fb06237be1734"
 metafile = true
 
 [[files]]
@@ -440,6 +475,11 @@ hash = "83960b7c336ae91758995e7155f64c19518dc016b11c4d79a67d2a0f878d94de"
 [[files]]
 file = "mods/createnuclear.pw.toml"
 hash = "0d4d9301589362d4fe6de582ab2dfc8cafb056dc8c909ba7c957e9fc9d8c18aa"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "7e266aeb4533b67f4fbdd30a6654cfa6439843b9a973d70bdc0443c219c0b54e"
 metafile = true
 
 [[files]]

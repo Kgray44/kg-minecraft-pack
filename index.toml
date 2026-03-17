@@ -951,21 +951,6 @@ hash = "05f66cdcb14be0a5f6f9be6961efb11172f4f81c40f3301e78e1349191e6ed4b"
 metafile = true
 
 [[files]]
-file = "mods/moonrise-compats.pw.toml"
-hash = "5842a22e0ab775c99d6530c592481d5047a05b56bfc0eb6c29901667035b6ff5"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-generator-accelerator.pw.toml"
-hash = "a9b4790b47e171e58ce624056265bfebc18b447e86ca2716ccac1c8ed159e4cf"
-metafile = true
-
-[[files]]
-file = "mods/moonrise.pw.toml"
-hash = "354143bdb8abbf1a5808e24707fb390eb36ea0d97cead95c48c132ec42ac2afa"
-metafile = true
-
-[[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "93fcd0d266aeba65dd5b62fa3f18170f02641e4cda42af15c104307844ec87cf"
 metafile = true

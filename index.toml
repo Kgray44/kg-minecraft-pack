@@ -217,6 +217,11 @@ hash = "d345fc07cba161497e7515ae209ec90288e99dbcd8ec9770bcbfd91b78977fb1"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "07e756eec150953e1da73adbee0c1d4d79cd9c48bc9c78ae4d3591e7097b45f2"
+metafile = true
+
+[[files]]
 file = "mods/better-library.pw.toml"
 hash = "0382238ec2ac7432366c661d09e56d737f8507c08f5ac1066ca884bdb3de8bd5"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/bugs-aplenty.pw.toml"
 hash = "ec8fdd311cd06d46534c2f97051772c5ccbdea8a5c527ce7bda5c2a9cebe0de6"
+metafile = true
+
+[[files]]
+file = "mods/c2me.pw.toml"
+hash = "c5068a622c7a38deaf9351e82404d72df4ea2cef81b0d3e9e960113df2cfa493"
 metafile = true
 
 [[files]]
@@ -668,6 +678,11 @@ hash = "c2d341e9aae93cbd010ae2007618047832c62d3005fafb1e2f071b0c1c340a94"
 metafile = true
 
 [[files]]
+file = "mods/field-guide.pw.toml"
+hash = "625f27485708200a9714d2fd6d9338326723d4f51dd1363f6ce2b4df43d38fb0"
+metafile = true
+
+[[files]]
 file = "mods/fish-of-thieves.pw.toml"
 hash = "0319f4a0f79d2384e9cb04b36481c6146e436a5e2368c1318651deea1ed4e47f"
 metafile = true
@@ -772,6 +787,11 @@ hash = "1fe7365aa75e77551afe5366a6c8255aad426cf91a36c3a5e444f55347bbcb6c"
 metafile = true
 
 [[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "4af3b04ade77c2fb473216daeeedffc79f4e46873cc69e7fe7a772a3451c30d4"
+metafile = true
+
+[[files]]
 file = "mods/immersive-snow.pw.toml"
 hash = "20ce4e9ce700d24d90cdbc1893ac1f4b3f79481d0d6545492d7128d81780b6fa"
 metafile = true
@@ -798,6 +818,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "f79778eff89e32733b12098e87e45ee6f17a6b4f6eb924cf0931d450f8b68f39"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "1cb0f951bbfb76a54048a5d81bf7bb63a349059fac7db869a044eb6df222d650"
 metafile = true
 
 [[files]]
@@ -923,6 +948,21 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "05f66cdcb14be0a5f6f9be6961efb11172f4f81c40f3301e78e1349191e6ed4b"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-compats.pw.toml"
+hash = "5842a22e0ab775c99d6530c592481d5047a05b56bfc0eb6c29901667035b6ff5"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-generator-accelerator.pw.toml"
+hash = "a9b4790b47e171e58ce624056265bfebc18b447e86ca2716ccac1c8ed159e4cf"
+metafile = true
+
+[[files]]
+file = "mods/moonrise.pw.toml"
+hash = "354143bdb8abbf1a5808e24707fb390eb36ea0d97cead95c48c132ec42ac2afa"
 metafile = true
 
 [[files]]

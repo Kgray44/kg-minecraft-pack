@@ -217,11 +217,6 @@ hash = "d345fc07cba161497e7515ae209ec90288e99dbcd8ec9770bcbfd91b78977fb1"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "07e756eec150953e1da73adbee0c1d4d79cd9c48bc9c78ae4d3591e7097b45f2"
-metafile = true
-
-[[files]]
 file = "mods/better-library.pw.toml"
 hash = "0382238ec2ac7432366c661d09e56d737f8507c08f5ac1066ca884bdb3de8bd5"
 metafile = true

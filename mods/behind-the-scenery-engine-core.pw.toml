@@ -1,0 +1,13 @@
+name = "BTSEngine: Core"
+filename = "btsengine_core-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cc6b55088d977d0c331a7c6c2a380f2c9858544"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6997659
+project-id = 1323553

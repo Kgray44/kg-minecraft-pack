@@ -207,6 +207,11 @@ hash = "33120c34f9de8252d66f9a026963b886143cbf53cc21a90f6de623811dddb766"
 metafile = true
 
 [[files]]
+file = "mods/behind-the-scenery-engine-core.pw.toml"
+hash = "0dda72830625fe8f3bc9310680dff50761c6ca4b83befe23e7114bb07255b569"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "1ce95ba06a121f0fc03376fe36ee41ac97c8b09d5842c6c9a3602b7ed9db8991"
 metafile = true
@@ -243,11 +248,6 @@ metafile = true
 [[files]]
 file = "mods/bugs-aplenty.pw.toml"
 hash = "ec8fdd311cd06d46534c2f97051772c5ccbdea8a5c527ce7bda5c2a9cebe0de6"
-metafile = true
-
-[[files]]
-file = "mods/c2me.pw.toml"
-hash = "c5068a622c7a38deaf9351e82404d72df4ea2cef81b0d3e9e960113df2cfa493"
 metafile = true
 
 [[files]]
@@ -943,6 +943,21 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "05f66cdcb14be0a5f6f9be6961efb11172f4f81c40f3301e78e1349191e6ed4b"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-compats.pw.toml"
+hash = "5842a22e0ab775c99d6530c592481d5047a05b56bfc0eb6c29901667035b6ff5"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-generator-accelerator.pw.toml"
+hash = "a9b4790b47e171e58ce624056265bfebc18b447e86ca2716ccac1c8ed159e4cf"
+metafile = true
+
+[[files]]
+file = "mods/moonrise.pw.toml"
+hash = "354143bdb8abbf1a5808e24707fb390eb36ea0d97cead95c48c132ec42ac2afa"
 metafile = true
 
 [[files]]

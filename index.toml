@@ -683,8 +683,18 @@ hash = "0319f4a0f79d2384e9cb04b36481c6146e436a5e2368c1318651deea1ed4e47f"
 metafile = true
 
 [[files]]
+file = "mods/fkfr.pw.toml"
+hash = "508100a8ee68612bd8b51d68c688bb5c5a9b8ae2f3f054f1d3cfcc27bf4d5723"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "08151f8af3074bfe50eb7e9864c575c3cedf84163b914647efc5a88a774179c9"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "e20b20d55b74dc8b3e9c2ff353b9f8788b3221b647cb32845fb53781a0b4684b"
 metafile = true
 
 [[files]]
@@ -943,21 +953,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "05f66cdcb14be0a5f6f9be6961efb11172f4f81c40f3301e78e1349191e6ed4b"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-compats.pw.toml"
-hash = "5842a22e0ab775c99d6530c592481d5047a05b56bfc0eb6c29901667035b6ff5"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-generator-accelerator.pw.toml"
-hash = "a9b4790b47e171e58ce624056265bfebc18b447e86ca2716ccac1c8ed159e4cf"
-metafile = true
-
-[[files]]
-file = "mods/moonrise.pw.toml"
-hash = "354143bdb8abbf1a5808e24707fb390eb36ea0d97cead95c48c132ec42ac2afa"
 metafile = true
 
 [[files]]

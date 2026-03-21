@@ -1,0 +1,13 @@
+name = "FKFR"
+filename = "fkfr-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7ce4813e9979d561b96ba0309ef01b8a088de19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7480111
+project-id = 1435112

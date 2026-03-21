@@ -261,6 +261,11 @@ hash = "aa42f979a909c84ce6fe9b53b51e0bd282d43f1a950bee1b39ed1ce8dba0e751"
 metafile = true
 
 [[files]]
+file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
+hash = "533b1cbb2b4c67663444510c8324f35f2b0230fbc51e1cbdd4a453c34cda127e"
+metafile = true
+
+[[files]]
 file = "mods/cc-ballistix-updated.pw.toml"
 hash = "623ce41919ee6e69995fdb62dd987d96e475ce516520639c217f53fd874bcdb6"
 metafile = true
@@ -332,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "ff66cbdc83835f2a9369e0d0ed802b45486ff18ac8980d2760a90c84b7f34b87"
+hash = "6ec94a5193c7b2077f9b750fcabdcabbef56c279eeea07b1a426a17a6bf625ce"
 metafile = true
 
 [[files]]

@@ -631,6 +631,11 @@ hash = "7b8100f519d8af7f844d807b6751e4d6dafd20663ee4711b16e104736ba0dc46"
 metafile = true
 
 [[files]]
+file = "mods/effortlessbuilding-sophisticated.pw.toml"
+hash = "7020ce28725a3049f4dcecd695d1fde10a82631d267e79c14958a23746dfa23d"
+metafile = true
+
+[[files]]
 file = "mods/electrodynamics.pw.toml"
 hash = "26a70dd6889ff4270ace2e2956a910f69dcd9f2eb4a80427d21cdc07fb9b62e9"
 metafile = true

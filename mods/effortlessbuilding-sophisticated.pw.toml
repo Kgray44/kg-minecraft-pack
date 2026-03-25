@@ -1,0 +1,13 @@
+name = "Effortless Building: Sophisticated (Enhanced Fork)"
+filename = "sophisticatedbuilding-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a7eab31c00129546b224e7cd519fc5d5d14195e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7542269
+project-id = 1414718

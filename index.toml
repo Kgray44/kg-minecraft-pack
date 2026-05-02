@@ -484,11 +484,6 @@ hash = "cdcc069d007c6c0e574ef510d8af0aac6dc60b1446f2aeb9c700760009d9c48c"
 metafile = true
 
 [[files]]
-file = "mods/create-the-air-war.pw.toml"
-hash = "6595e6349625fdb4ac6cf8da66d4fd3a0c4c5e7fb5a71173d9c4fb672c311a6d"
-metafile = true
-
-[[files]]
 file = "mods/create-tick-control.pw.toml"
 hash = "de342729c9f978bb3e9a41bddec4353766f4edfffb9afeccab0c284305f251f5"
 metafile = true

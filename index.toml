@@ -1072,6 +1072,11 @@ hash = "66b658709ecfcf1ed6b296701bd1e37df86b9414ef7a0462334adba7fd6e29b7"
 metafile = true
 
 [[files]]
+file = "mods/sable.pw.toml"
+hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+metafile = true
+
+[[files]]
 file = "mods/satako-library.pw.toml"
 hash = "5d617ad4b4febe62651f09d4fd1065bc0d9ef5e1625080657bf9a2ab5a35686e"
 metafile = true

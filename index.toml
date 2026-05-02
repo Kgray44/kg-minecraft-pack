@@ -146,7 +146,7 @@ hash = "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
 
 [[files]]
 file = "mods/adorablehamsterpets.pw.toml"
-hash = "73b53a19998e345f016fcdbcd6528c4848dc85209fdb7484e49064cad1adaee0"
+hash = "212ceed30f86b37a6020f0b88a56bd7148836a78a8fb259fba831f1c21605b17"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/beeble.pw.toml"
-hash = "63dd5052cecae4493fb4279aaa4af262fe1b94c18ff7fc199bd36be5b31123e6"
+hash = "b9f7e878176b08fe0ed46078cb9de8b6c50654b3c5bf1226576c83c6ebb5bb2b"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairydining.pw.toml"
-hash = "780fe60752b96675dc1fb32fe8fb825f855c6e57976ad653b77ec30b89375dfa"
+hash = "57125ae2e6db5adb9dab890d63add14df811ab55ae7f7592578b6eddc7f3c709"
 metafile = true
 
 [[files]]

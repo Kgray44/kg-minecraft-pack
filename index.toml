@@ -249,6 +249,11 @@ hash = "6c6cf2d6d2a2c9360b56b1ff945a797ccbffd4ebea0b9f51b3260871cb95b6ed"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons-advanced-technologies.pw.toml"
+hash = "f7066538c0086fca271ddf7d26b223d932a205e80fec08e6c14c9b4c245ed7b5"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "6ec94a5193c7b2077f9b750fcabdcabbef56c279eeea07b1a426a17a6bf625ce"
 metafile = true
@@ -411,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "463e3d85a89949e6fe18512677ee6b0409bff4d4423139e01fb3892472dea508"
+metafile = true
+
+[[files]]
+file = "mods/create-radars-unofficial-port.pw.toml"
+hash = "ae6a5acdf89198b55c9f515ba05521a5b867fe3fd034941f18a6d2c6b475484c"
 metafile = true
 
 [[files]]
@@ -971,16 +981,6 @@ metafile = true
 [[files]]
 file = "mods/perspatium.pw.toml"
 hash = "4f9dfcd8a00e05c4ab8e261a3de60a51cf52a3fb6964fec80ff97fe572a31019"
-metafile = true
-
-[[files]]
-file = "mods/petrolpark-1-21-1-1-4-28.pw.toml"
-hash = "ede76e44c0ea8e9a5d87d489d6ab5f6747ab1bca28fff3b0430484151490f8b7"
-metafile = true
-
-[[files]]
-file = "mods/petrolsparts-1-21-1-1-2-5.pw.toml"
-hash = "1b2091acb97fd1e237426b50e3c9898dfb8215a7e0c4fc844440ea6e599f6f6e"
 metafile = true
 
 [[files]]

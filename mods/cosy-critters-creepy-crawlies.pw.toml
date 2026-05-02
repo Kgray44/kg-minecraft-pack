@@ -1,0 +1,13 @@
+name = "Cosy Critters & Creepy Crawlies [Neo]"
+filename = "cosycritters-1.21.1-NeoForge-0.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35b0275693e0f65cb53299e9ca07e32f41eeb516"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6209864
+project-id = 1186728

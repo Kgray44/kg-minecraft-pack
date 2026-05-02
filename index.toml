@@ -133,6 +133,11 @@ file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar.disabled"
 hash = "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
 
 [[files]]
+file = "mods/adorable-hamster-pets.pw.toml"
+hash = "6a49d2b1692246763a9f21e93b429d66620bb9f7aac0ccb12852c2041dba7486"
+metafile = true
+
+[[files]]
 file = "mods/advanced-arsenal.pw.toml"
 hash = "c87ff0dcb6c62764965e316a541d49123e68d6c7a9dbf17887ede922e8228597"
 metafile = true
@@ -183,6 +188,11 @@ hash = "5c2acebd80b4abe5eefa24006386c6d3a18a78e2cf874f8bb893ca2b9550d9bd"
 metafile = true
 
 [[files]]
+file = "mods/astikor-carts-redux.pw.toml"
+hash = "862032c74a95cbf73638bb5afed2de24e96f3665fe22c6c1b14f1203c46e437c"
+metafile = true
+
+[[files]]
 file = "mods/atays.pw.toml"
 hash = "be7b0de914479a25cc8c1fa3282fe4ea626560cf32e0f5897928490fbda0adc1"
 metafile = true
@@ -204,6 +214,11 @@ hash = "6dd3302172c7aa7ffb5de608e97ef4092c5698b3c97b84c11a570e26a69c3d7e"
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "33120c34f9de8252d66f9a026963b886143cbf53cc21a90f6de623811dddb766"
+metafile = true
+
+[[files]]
+file = "mods/beebles.pw.toml"
+hash = "42ce6df6eb3dcb70f986fd9953a88bc6ff592e9c6145bb5a4f965a0b49381702"
 metafile = true
 
 [[files]]
@@ -233,6 +248,11 @@ hash = "2373752c20c1effcd55b09e849bf7a434777bdeaf72005e053a8d258c4740663"
 [[files]]
 file = "mods/big-brain.pw.toml"
 hash = "5e23f338ef989b1b340485aeb738f354148edbbacf306a74b39d754b7ee0728b"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "6e60967fb94f0f8607281e1b00a4bc98f93958937f92f25bb77982d79e98ca5c"
 metafile = true
 
 [[files]]
@@ -313,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/cosmos-infinia.pw.toml"
 hash = "3c76b6af4de02ecc4121c0a8c7e5e5e91c7880b4f465fa4ce1ad5ac5b396cc66"
+metafile = true
+
+[[files]]
+file = "mods/cosy-critters-creepy-crawlies.pw.toml"
+hash = "becc06205fecd4b0987a40e2a0ea51178bf725c9cd08663a411754d4f4cce5e4"
 metafile = true
 
 [[files]]
@@ -612,6 +637,16 @@ hash = "c02490b79684be7a6d3f61ad944867653605eba50c1117c89ef3cf80457180f5"
 metafile = true
 
 [[files]]
+file = "mods/cute-n-sweet.pw.toml"
+hash = "bbc377c5ab3cc82e6299b287fcba55ec2bca58975745673bfb4730e6ad86bee2"
+metafile = true
+
+[[files]]
+file = "mods/darling-decorations.pw.toml"
+hash = "fa2139831434db0a6ed7473a9dbbf67e51c9aa9d6d271bdd72cb03bb0a2b81b2"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "30743ad58d35105352afb0a6d5b1deb741c61f2e7b97847fb2cf1ac7f3074017"
 metafile = true
@@ -621,6 +656,11 @@ file = "mods/distantlandsmc-1.0.0.jar.disabled"
 hash = "c66e739a92e6b79a114bf432325aa0fd301912de6f013cfc5b1817e4538d25ca"
 
 [[files]]
+file = "mods/dmr.pw.toml"
+hash = "2950b700775d59cddf7bbf8fe2c60b60181a21d02468053cd19971ddcea49541"
+metafile = true
+
+[[files]]
 file = "mods/dndesires-1-21-1-2-2d-beta.pw.toml"
 hash = "a87ee9ea451391fae16111bf1aa81f836ce69a08cd3672ee41f826da21017abb"
 metafile = true
@@ -628,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "7b8100f519d8af7f844d807b6751e4d6dafd20663ee4711b16e104736ba0dc46"
+metafile = true
+
+[[files]]
+file = "mods/dragon-mounts-remastered-more-dragons.pw.toml"
+hash = "4f271ed7c2b5bad83283d473b41895ae2ac304f5ef8758f3f53893a6102baee3"
 metafile = true
 
 [[files]]
@@ -667,6 +712,16 @@ metafile = true
 [[files]]
 file = "mods/epicterrain-0.1.4-Beta-1.20.5~1.21.4.jar.disabled"
 hash = "03c41153e70bb9b605557f9e7ffa90f20576e2b5dce19a33ec3feec7bb92cec4"
+
+[[files]]
+file = "mods/fairy-lights-neoforge.pw.toml"
+hash = "7cf8de97ba3c704530135047464f852aad15192265272a76d28078a45049da2d"
+metafile = true
+
+[[files]]
+file = "mods/faye-fairy-dining-set.pw.toml"
+hash = "53c07f1919921e389ec7ae14cef82b0ad1473da59c12c0026f05cb8751a8f331"
+metafile = true
 
 [[files]]
 file = "mods/featheredfriend-neoforge-1.21.1-1.3.8.jar.disabled"
@@ -738,12 +793,22 @@ hash = "79ff5999adbcf076b52e2c23c5419b4f981432e56576ba095a180001c2de60da"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
+metafile = true
+
+[[files]]
 file = "mods/gaboulibs-neoforge-1.4.jar.disabled"
 hash = "26b9d52f72f4e2da41950409b18481b46282fce18a6238baf392b9a584cbebd4"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "12a9904c2d1e783940acaa0c7c6adb7a2e295c0d851068505941063b628cefd1"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+metafile = true
+
+[[files]]
+file = "mods/geckos.pw.toml"
+hash = "8b92b6c006afacd409d8b7ca5fb1c0dda861fc7a9dc459b7e792e9f765ed2e29"
 metafile = true
 
 [[files]]
@@ -759,6 +824,16 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "b6f99ff26bb45b22b20dfe61a0cf8647aac169d8aa03758adb6ed91b875f911e"
+metafile = true
+
+[[files]]
+file = "mods/haven-plushies.pw.toml"
+hash = "051e89061eb8b7fc91a307eb60260f48e82792c759000d79830d81fa2605257d"
+metafile = true
+
+[[files]]
+file = "mods/hotbath.pw.toml"
+hash = "64700d2100668a1cd4f85cb1faf6e8feae84eb436602e15cb959a29953f63009"
 metafile = true
 
 [[files]]
@@ -872,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "500679807f956db0ad9b20a68c10837cd6de79f00fee3fd4042ab3e48a4a4200"
+hash = "daae831820f5b1c8ac4618fc8c44bc6336809e9889bce7c184eaf6c7d927f14f"
 metafile = true
 
 [[files]]
@@ -1001,6 +1076,11 @@ hash = "8a384c5a699ac87eb1d9888debbc5288aa9d09884071e1da28a9d22c4a5a50f1"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
+metafile = true
+
+[[files]]
 file = "mods/perspatium.pw.toml"
 hash = "4f9dfcd8a00e05c4ab8e261a3de60a51cf52a3fb6964fec80ff97fe572a31019"
 metafile = true
@@ -1055,6 +1135,11 @@ hash = "3c66102fc76a040e4f646ecf7054735929d66269a33cd392a2342fd8a695e1a9"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "e837a18c91a9fbe9e5d24afb89b9841baae433ae733570984a22b3e9d1603d6d"
+metafile = true
+
+[[files]]
 file = "mods/repurposed_structures-7.5.18+1.21.1-neoforge.jar.disabled"
 hash = "0f4442b634252ae26a4aedbbae83aa59538f72dd5eea8631d0ddb747f2f89380"
 
@@ -1091,6 +1176,11 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "c0c824be7006caf82827874809f4a4a66fcd634c09afbe7451d2387c9fe0ebe9"
+metafile = true
+
+[[files]]
+file = "mods/showercore.pw.toml"
+hash = "d504b262fc80db3713ef3b9da64bbe325e7b080fad359cfd8068e6e864460688"
 metafile = true
 
 [[files]]
@@ -1241,6 +1331,11 @@ hash = "c28e25969b2d773eed2ae5db83a61a10f163e064b93a69aa4439f7b13f42257d"
 metafile = true
 
 [[files]]
+file = "mods/trotting-wagons.pw.toml"
+hash = "c0b6adc03be5c19aef44474e14fa31bc8e578a60cbb43cabbaaef24f622c95b8"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "78941b66f0fa887e402c0f7658809a5bc6db79ac7b78682f5763b344fd66c83d"
 metafile = true
@@ -1290,7 +1385,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "eca684cf26b1110039284783c8349b1e894575cc015493913b7ccc54677f5b88"
+hash = "5d03683da0a6ce18c701093eb2d89d8e9166c41d22a322192098a5628a369d50"
 
 [[files]]
 file = "resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip"

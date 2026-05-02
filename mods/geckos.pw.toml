@@ -1,0 +1,13 @@
+name = "Geckos"
+filename = "geckos-0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6696220461a1c5592b1e971ba5841a39c3715bdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7968271
+project-id = 1521862

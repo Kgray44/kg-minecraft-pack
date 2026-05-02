@@ -1,0 +1,13 @@
+name = "Cute n' Sweet! 🧁"
+filename = "cute_n_sweet-1.2.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b9a200cfda0f58212d9a945fb4a99ad52898b76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7778691
+project-id = 1069849

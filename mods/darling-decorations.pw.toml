@@ -1,0 +1,13 @@
+name = "Darling Decorations!"
+filename = "darlingdecorations-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3f39c12d9a44680b72a6a3a7229ae66d6e79d2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7576569
+project-id = 1244673

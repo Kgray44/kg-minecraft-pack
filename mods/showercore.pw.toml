@@ -1,0 +1,13 @@
+name = "Shower Core"
+filename = "showercore-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6955b5aec0808c1e59b8c8e87668009d184fca6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7340522
+project-id = 1403788

@@ -1,0 +1,13 @@
+name = "Hot Bath"
+filename = "hotbath-1.21.1-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8972a1e9cdd77254fa7bf99a56a667ea97c134cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7915863
+project-id = 859412

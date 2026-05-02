@@ -1,130 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "hosted-mods/DnDesires-1.21.1-2.2d-BETA.jar"
-hash = "8718c117ba98e7fd92312a73b37f20fc8cbfac800963bc5ced4eb49ccdb11330"
-
-[[files]]
-file = "hosted-mods/Fairy Dining v2-neoforge-1.21.1.jar"
-hash = "58196114f18b5b5c0b62dca4b6044f640b711a9a4b5ed7663acb83a894989cc2"
-
-[[files]]
-file = "hosted-mods/adorablehamsterpets-3.6.0-1.21.1+neoforge.jar"
-hash = "db1d5622d1e82d7b2b2ddfc2c2474b531fd4b3f987beec293f7b5052b5457c32"
-
-[[files]]
-file = "hosted-mods/antiquetradingship-1.4.0-neoforge-1.21.1.jar"
-hash = "d8449dac9a38ef09ffe13add762b34745e4389432a5b919b5432b5357e229033"
-
-[[files]]
-file = "hosted-mods/atay-mod-2.0.3.jar"
-hash = "5340c4e9dee4c50f8da629b54c99a1c747aae622a46ad0f11425cdc7fe1a3dfc"
-
-[[files]]
-file = "hosted-mods/beeble-1.2.1-neoforge-1.21.1.jar"
-hash = "21c69ddb13f1859e00c04c3b7bb981727e479fa8593b5e20af0c2e0a40feffa0"
-
-[[files]]
-file = "hosted-mods/coincraft-1.1.0.jar"
-hash = "725d1b1a64779aa18e759f06d42a1fa7ffdd91480b6fb0fd27f0e2783755a473"
-
-[[files]]
-file = "hosted-mods/copperagebackport-neoforge-1.21.1-0.1.4.jar"
-hash = "1cd0007d427be712d303f5a6f8084c67a2635f02e686e8c9c824cc1dcfdfa272"
-
-[[files]]
-file = "hosted-mods/craftable-elytra-1.21.1.jar"
-hash = "bda4547e4233e9102689e564f36a04a7fa6fac18087520b95758c89f5abfc17b"
-
-[[files]]
-file = "hosted-mods/create_chocolate-3.5.0-1.21.1.jar"
-hash = "b3fb0681bbd308d6a8770dd160e25254021095b539f6431c799be9c20744a7c1"
-
-[[files]]
-file = "hosted-mods/create_ltab-3.8.2.jar"
-hash = "533626d864c4505aa982e6801172827edfc339f6efab2bbf38b9d5222dd2393a"
-
-[[files]]
-file = "hosted-mods/create_recycle_everything-1.0.1.jar"
-hash = "eab61f8db8120443c30f062082cbbd0db1055d531051276add01f81be0532f8b"
-
-[[files]]
-file = "hosted-mods/create_structures_arise-173.46.45 Release-neoforge-1.21.1.jar"
-hash = "68151c708068b06757ae0bb366a4c0ec8928ca83b364dd3484f0cae57e7b966f"
-
-[[files]]
-file = "hosted-mods/create_train_parts-0.3.2-1.21.1.jar"
-hash = "ffaa59556600ddc18f186b779ede8deeea4793dd0c27f81c9bbadf69f3a5a0a9"
-
-[[files]]
-file = "hosted-mods/createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5.jar"
-hash = "dda35d6b148114af6a9de3cdfec30a028dcc1c3fcca3eed03da925b279305212"
-
-[[files]]
-file = "hosted-mods/customtreasuremaps-1.0.2.jar"
-hash = "e5f13aeb52486e66bcfc3d4dfc8a9ee04456dc49b3cf03aacf2773909ab86269"
-
-[[files]]
-file = "hosted-mods/elytracam-0.3-1.21.1.jar"
-hash = "9b87b07fdf44801f9f3edd9ce9b53822dfd04d9e307a979b68dee996966d7e22"
-
-[[files]]
-file = "hosted-mods/entityculling-neoforge-1.9.5-mc1.21.1.jar"
-hash = "6357c6c7649d139f088b7176d589e3e7b16790f3c484a544c112702df0373001"
-
-[[files]]
-file = "hosted-mods/fish_of_thieves-mc1.21.1-v21.1.1.2-neoforge.jar"
-hash = "2ab0c30cf0001ebde6da3f3b86bf3a96750fe97d6f86aee44d93041347e41c00"
-
-[[files]]
-file = "hosted-mods/i_architecture-0.1.1b.jar"
-hash = "295edfb0f3dec36bc294debe377425a9ad21f7ce98305ca9f7b03d4b0605a544"
-
-[[files]]
-file = "hosted-mods/immersive-sound-0.2.jar"
-hash = "350e61bdfcfe90c589e6bf1e209955fda9d81b36cd37b889b5aa985d24000d34"
-
-[[files]]
-file = "hosted-mods/immersivecaves-1.4.1-neoforge-1.21.1.jar"
-hash = "b16f09d41cbbcb7c3736b524ad87b3185b1c36125f5b2c7297f6c1970931ec95"
-
-[[files]]
-file = "hosted-mods/immersivesnow-1.21.1-1.4.0.jar"
-hash = "9494aa37b0eff6eba47798a125887417737c824684433d86248b6f190f9f9427"
-
-[[files]]
-file = "hosted-mods/petrolpark-1.21.1-1.4.28.jar"
-hash = "49fc72663cbf390e1d919a43543b1babef797bbfa38dd5ed92d2cf518fe6117e"
-
-[[files]]
-file = "hosted-mods/petrolsparts-1.21.1-1.2.5.jar"
-hash = "5e7e424443ea274a3ada3a68de1d80d2a428c09289977063174b5bd37a2cebe0"
-
-[[files]]
-file = "hosted-mods/realmrpg_balloons-0.9.1-neoforge-1.21.1.jar"
-hash = "6979cba8ecc303d079b388293e3f90c48b47d53ad4f5387c6123aa5c20c36701"
-
-[[files]]
-file = "hosted-mods/seaeater-1.0.0.jar"
-hash = "ba3af3a9cb2463d59b79cb321a815fc9f962401ce1ce603f0e28c1d36cc32148"
-
-[[files]]
-file = "hosted-mods/simply_traps-1.7-neoforge-1.21.1.jar"
-hash = "a254b7f0e5b6d91c8284811e35fa880b1e032a367b489f53c3a08bfb4d024c49"
-
-[[files]]
-file = "hosted-mods/trainutilities-neoforge-3.0.1.jar"
-hash = "3ae43db2aa918d39d0428463ee3fc7503c9adca273ad60b3dd9b66278196686d"
-
-[[files]]
-file = "hosted-mods/trapped-1.0.2-neoforge-1.21.1.jar"
-hash = "9fb1b00656a5453af1c4450396f2cc59220704bca21755089fb51616da7c7ebe"
-
-[[files]]
-file = "hosted-mods/waystone_towers-1.21.1-NEOFORGE-1.0.9.jar"
-hash = "3108b6c7d4a7ebd29ca811f366c46f542ef51d1a7f6ca2f7e83c94b31cc75463"
-
-[[files]]
 file = "mods/AdvancedAE-1.6.9-1.21.1.jar.disabled"
 hash = "7570564c8521197f8b8ed06db3f95d11704eaab42315d2225170e1938643c7fc"
 
@@ -145,8 +21,8 @@ file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar.disabled"
 hash = "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
 
 [[files]]
-file = "mods/adorablehamsterpets.pw.toml"
-hash = "9741422553ac05a0e5f131201966fbdc5e91b9741d086d899e4c113838cabe16"
+file = "mods/adorable-hamster-pets-3.6.0.pw.toml"
+hash = "3d62c75f22f7a78a6dfd8e9d450c131d62e84da67bc7566d7728954186452022"
 metafile = true
 
 [[files]]
@@ -229,8 +105,8 @@ hash = "33120c34f9de8252d66f9a026963b886143cbf53cc21a90f6de623811dddb766"
 metafile = true
 
 [[files]]
-file = "mods/beeble.pw.toml"
-hash = "49a96a6eae854db3127c2b6004ac9b088f8f1240576b199cfd1bc6e3bbf1692d"
+file = "mods/beeble-1.2.1.pw.toml"
+hash = "2afc635cb13135028688d691954e026cf1a02fb53b468048b6551086a50e8773"
 metafile = true
 
 [[files]]
@@ -726,13 +602,13 @@ file = "mods/epicterrain-0.1.4-Beta-1.20.5~1.21.4.jar.disabled"
 hash = "03c41153e70bb9b605557f9e7ffa90f20576e2b5dce19a33ec3feec7bb92cec4"
 
 [[files]]
-file = "mods/fairy-lights-neoforge.pw.toml"
-hash = "7cf8de97ba3c704530135047464f852aad15192265272a76d28078a45049da2d"
+file = "mods/fairy-dining-v2.pw.toml"
+hash = "b4a7324370d4e5fbe40fbf434e1d835ad71b595aee4819a6dd9659f42042de11"
 metafile = true
 
 [[files]]
-file = "mods/fairydining.pw.toml"
-hash = "4ff1721653e0c172e5ff41a61756d5227253f56434b33d2f1005c2a356c445ae"
+file = "mods/fairy-lights-neoforge.pw.toml"
+hash = "7cf8de97ba3c704530135047464f852aad15192265272a76d28078a45049da2d"
 metafile = true
 
 [[files]]

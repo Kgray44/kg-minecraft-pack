@@ -239,6 +239,11 @@ hash = "386ef33b9df2813ee4d6dd372fb3223562b3ff07b5d1fb48228db219d0cd410a"
 metafile = true
 
 [[files]]
+file = "mods/create-automotives.pw.toml"
+hash = "9b7fe1a9dfed7d06966ae72343184d605ee36f6c2b5e60a589aff2a2df63b830"
+metafile = true
+
+[[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "7afae7a32c1d89931b831dedde5940ce5b823abb7100ba42715a09d7538ba299"
 metafile = true
@@ -246,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/create-better-motors.pw.toml"
 hash = "6c6cf2d6d2a2c9360b56b1ff945a797ccbffd4ebea0b9f51b3260871cb95b6ed"
+metafile = true
+
+[[files]]
+file = "mods/create-better-villager.pw.toml"
+hash = "91da4234d7e665194be2343506fe1c44ed52e3362ce0c3dd071d15075afeb069"
 metafile = true
 
 [[files]]
@@ -326,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "4bff1ba2021d536f1bf77b417bc502f548ac30ced8c43f298e9aeb84131aebe4"
+metafile = true
+
+[[files]]
+file = "mods/create-guardian-beam-defense.pw.toml"
+hash = "1850f3896c8e5d075b53887f9c770cec19e69bf63f0d90a397397d97affc862c"
 metafile = true
 
 [[files]]
@@ -419,6 +434,11 @@ hash = "463e3d85a89949e6fe18512677ee6b0409bff4d4423139e01fb3892472dea508"
 metafile = true
 
 [[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "760609d7ae9c33ad2f4b8dfeccc5e872349d3a7c9db03aa76c241737860d3a70"
+metafile = true
+
+[[files]]
 file = "mods/create-radars-unofficial-port.pw.toml"
 hash = "ae6a5acdf89198b55c9f515ba05521a5b867fe3fd034941f18a6d2c6b475484c"
 metafile = true
@@ -459,6 +479,11 @@ hash = "cdcc069d007c6c0e574ef510d8af0aac6dc60b1446f2aeb9c700760009d9c48c"
 metafile = true
 
 [[files]]
+file = "mods/create-the-air-war.pw.toml"
+hash = "6595e6349625fdb4ac6cf8da66d4fd3a0c4c5e7fb5a71173d9c4fb672c311a6d"
+metafile = true
+
+[[files]]
 file = "mods/create-tick-control.pw.toml"
 hash = "de342729c9f978bb3e9a41bddec4353766f4edfffb9afeccab0c284305f251f5"
 metafile = true
@@ -485,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ae52b77a3adf86ce2e4f3ce3c8d00006271bc9b52b7c193a9640c33d4560da5b"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -921,6 +946,11 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "0410547cf4e8b9272822e75818bc9743166f84f1c03704649c25b19302fe2267"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "14a344db4da97ac6d8963ff9983e29b8d19ed0b431beef21c008e0da9b6a4c41"
 metafile = true
 
 [[files]]

@@ -234,6 +234,11 @@ hash = "1c87230415809a27bebe646136790c2d0f9128d273389aaa2715cd4cee18d475"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+metafile = true
+
+[[files]]
 file = "mods/create-ages.pw.toml"
 hash = "386ef33b9df2813ee4d6dd372fb3223562b3ff07b5d1fb48228db219d0cd410a"
 metafile = true

@@ -1,0 +1,8 @@
+name = "Adorable Hamster Pets 3.6.0"
+filename = "adorablehamsterpets-3.6.0-1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/adorablehamsterpets-3.6.0-1.21.1+neoforge.jar"
+hash-format = "sha256"
+hash = "DB1D5622D1E82D7B2B2DDFC2C2474B531FD4B3F987BEEC293F7B5052B5457C32"

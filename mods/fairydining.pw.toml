@@ -1,0 +1,9 @@
+name = "Fairy Dining V2"
+filename = "Fairy Dining v2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/Fairy Dining v2-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "58196114F18B5B5C0B62DCA4B6044F640B711A9A4B5ED7663ACB83A894989CC2"
+

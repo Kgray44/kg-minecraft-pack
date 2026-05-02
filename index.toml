@@ -145,6 +145,11 @@ file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar.disabled"
 hash = "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
 
 [[files]]
+file = "mods/adorablehamsterpets.pw.toml"
+hash = "73b53a19998e345f016fcdbcd6528c4848dc85209fdb7484e49064cad1adaee0"
+metafile = true
+
+[[files]]
 file = "mods/advanced-arsenal.pw.toml"
 hash = "c87ff0dcb6c62764965e316a541d49123e68d6c7a9dbf17887ede922e8228597"
 metafile = true
@@ -221,6 +226,11 @@ hash = "6dd3302172c7aa7ffb5de608e97ef4092c5698b3c97b84c11a570e26a69c3d7e"
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "33120c34f9de8252d66f9a026963b886143cbf53cc21a90f6de623811dddb766"
+metafile = true
+
+[[files]]
+file = "mods/beeble.pw.toml"
+hash = "63dd5052cecae4493fb4279aaa4af262fe1b94c18ff7fc199bd36be5b31123e6"
 metafile = true
 
 [[files]]
@@ -718,6 +728,11 @@ hash = "03c41153e70bb9b605557f9e7ffa90f20576e2b5dce19a33ec3feec7bb92cec4"
 [[files]]
 file = "mods/fairy-lights-neoforge.pw.toml"
 hash = "7cf8de97ba3c704530135047464f852aad15192265272a76d28078a45049da2d"
+metafile = true
+
+[[files]]
+file = "mods/fairydining.pw.toml"
+hash = "780fe60752b96675dc1fb32fe8fb825f855c6e57976ad653b77ec30b89375dfa"
 metafile = true
 
 [[files]]

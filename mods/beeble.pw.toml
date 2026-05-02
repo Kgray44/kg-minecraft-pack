@@ -1,0 +1,9 @@
+name = "Beeble 1.2.1"
+filename = "beeble-1.2.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://kgray44.github.io/kg-minecraft-pack/hosted-mods/beeble-1.2.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "21C69DDB13F1859E00C04C3B7BB981727E479FA8593B5E20AF0C2E0A40FEFFA0"
+

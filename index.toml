@@ -5,12 +5,24 @@ file = "hosted-mods/DnDesires-1.21.1-2.2d-BETA.jar"
 hash = "8718c117ba98e7fd92312a73b37f20fc8cbfac800963bc5ced4eb49ccdb11330"
 
 [[files]]
+file = "hosted-mods/Fairy Dining v2-neoforge-1.21.1.jar"
+hash = "58196114f18b5b5c0b62dca4b6044f640b711a9a4b5ed7663acb83a894989cc2"
+
+[[files]]
+file = "hosted-mods/adorablehamsterpets-3.6.0-1.21.1+neoforge.jar"
+hash = "db1d5622d1e82d7b2b2ddfc2c2474b531fd4b3f987beec293f7b5052b5457c32"
+
+[[files]]
 file = "hosted-mods/antiquetradingship-1.4.0-neoforge-1.21.1.jar"
 hash = "d8449dac9a38ef09ffe13add762b34745e4389432a5b919b5432b5357e229033"
 
 [[files]]
 file = "hosted-mods/atay-mod-2.0.3.jar"
 hash = "5340c4e9dee4c50f8da629b54c99a1c747aae622a46ad0f11425cdc7fe1a3dfc"
+
+[[files]]
+file = "hosted-mods/beeble-1.2.1-neoforge-1.21.1.jar"
+hash = "21c69ddb13f1859e00c04c3b7bb981727e479fa8593b5e20af0c2e0a40feffa0"
 
 [[files]]
 file = "hosted-mods/coincraft-1.1.0.jar"
@@ -133,11 +145,6 @@ file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar.disabled"
 hash = "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
 
 [[files]]
-file = "mods/adorable-hamster-pets.pw.toml"
-hash = "6a49d2b1692246763a9f21e93b429d66620bb9f7aac0ccb12852c2041dba7486"
-metafile = true
-
-[[files]]
 file = "mods/advanced-arsenal.pw.toml"
 hash = "c87ff0dcb6c62764965e316a541d49123e68d6c7a9dbf17887ede922e8228597"
 metafile = true
@@ -214,11 +221,6 @@ hash = "6dd3302172c7aa7ffb5de608e97ef4092c5698b3c97b84c11a570e26a69c3d7e"
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "33120c34f9de8252d66f9a026963b886143cbf53cc21a90f6de623811dddb766"
-metafile = true
-
-[[files]]
-file = "mods/beebles.pw.toml"
-hash = "42ce6df6eb3dcb70f986fd9953a88bc6ff592e9c6145bb5a4f965a0b49381702"
 metafile = true
 
 [[files]]
@@ -716,11 +718,6 @@ hash = "03c41153e70bb9b605557f9e7ffa90f20576e2b5dce19a33ec3feec7bb92cec4"
 [[files]]
 file = "mods/fairy-lights-neoforge.pw.toml"
 hash = "7cf8de97ba3c704530135047464f852aad15192265272a76d28078a45049da2d"
-metafile = true
-
-[[files]]
-file = "mods/faye-fairy-dining-set.pw.toml"
-hash = "53c07f1919921e389ec7ae14cef82b0ad1473da59c12c0026f05cb8751a8f331"
 metafile = true
 
 [[files]]
